@@ -1,0 +1,1001 @@
+sl_no,ssc_p,ssc_b,hsc_p,hsc_b,hsc_s,degree_p,degree_t,workex,etest_p,specialisation,mba_p,status,salary
+1,84.83,Others,78.59,Central,Science,66.56,Comm&Mgmt,Yes,66.42,Mkt&HR,70.06,Placed,637254.0
+2,69.75,Central,93.03,Central,Arts,72.82,Sci&Tech,No,46.89,Mkt&Fin,79.3,Placed,532610.0
+3,88.64,Central,63.55,Others,Science,50.03,Others,No,73.01,Mkt&HR,57.53,Not Placed,
+4,81.38,Central,66.25,Others,Science,75.79,Comm&Mgmt,Yes,49.07,Mkt&Fin,67.75,Placed,671468.0
+5,54.24,Others,85.61,Others,Science,78.73,Others,Yes,43.54,Mkt&Fin,71.3,Placed,646563.0
+6,93.9,Central,70.29,Others,Commerce,72.68,Comm&Mgmt,No,68.92,Mkt&Fin,79.42,Placed,564459.0
+7,84.25,Central,81.83,Central,Commerce,69.86,Others,No,78.01,Mkt&HR,88.58,Placed,600550.0
+8,85.37,Central,67.99,Others,Arts,82.4,Comm&Mgmt,No,89.54,Mkt&Fin,83.93,Placed,629356.0
+9,55.77,Others,55.77,Others,Commerce,77.25,Sci&Tech,No,85.4,Mkt&HR,74.86,Placed,619814.0
+10,70.27,Others,82.26,Central,Commerce,61.12,Sci&Tech,No,89.72,Mkt&Fin,73.35,Placed,595473.0
+11,66.69,Central,51.56,Others,Science,88.36,Comm&Mgmt,Yes,84.08,Mkt&Fin,74.13,Placed,745937.0
+12,91.7,Central,54.93,Central,Arts,78.29,Comm&Mgmt,No,80.79,Mkt&HR,71.81,Placed,626176.0
+13,78.97,Central,76.34,Others,Science,89.52,Others,Yes,40.59,Mkt&Fin,52.37,Placed,672405.0
+14,87.02,Others,82.36,Others,Science,88.85,Comm&Mgmt,No,76.31,Mkt&Fin,77.93,Placed,666771.0
+15,69.95,Others,89.73,Others,Science,86.76,Others,Yes,46.99,Mkt&HR,78.65,Placed,668632.0
+16,60.23,Central,58.63,Others,Commerce,80.21,Sci&Tech,Yes,43.4,Mkt&HR,70.5,Placed,672752.0
+17,74.96,Central,50.54,Central,Commerce,74.38,Comm&Mgmt,No,49.07,Mkt&HR,84.82,Placed,552573.0
+18,52.87,Others,92.8,Others,Commerce,56.89,Others,No,87.75,Mkt&HR,76.9,Placed,583641.0
+19,87.24,Others,52.72,Others,Arts,71.73,Sci&Tech,No,83.14,Mkt&Fin,64.51,Placed,589909.0
+20,78.42,Central,54.88,Others,Arts,80.62,Sci&Tech,No,95.03,Mkt&Fin,50.79,Placed,632877.0
+21,84.11,Central,59.57,Others,Commerce,70.83,Others,No,96.78,Mkt&Fin,52.37,Placed,642588.0
+22,65.95,Others,71.47,Central,Commerce,84.73,Comm&Mgmt,No,91.81,Mkt&HR,64.07,Placed,661829.0
+23,93.68,Others,89.14,Others,Commerce,54.39,Others,No,47.71,Mkt&Fin,68.48,Placed,474032.0
+24,90.19,Others,83.03,Central,Arts,65.24,Comm&Mgmt,No,90.95,Mkt&Fin,56.67,Placed,622424.0
+25,85.03,Central,80.41,Others,Science,70.24,Others,No,88.64,Mkt&Fin,57.57,Placed,604323.0
+26,58.76,Central,53.76,Central,Arts,67.29,Others,No,90.52,Mkt&HR,59.21,Placed,604592.0
+27,71.0,Others,62.88,Central,Science,54.34,Others,No,48.8,Mkt&HR,81.22,Placed,496829.0
+28,51.97,Others,68.92,Central,Arts,56.14,Sci&Tech,Yes,46.77,Mkt&Fin,80.85,Not Placed,
+29,56.94,Others,52.37,Others,Science,83.5,Comm&Mgmt,No,93.58,Mkt&Fin,65.32,Placed,682609.0
+30,80.74,Central,58.67,Central,Commerce,69.38,Sci&Tech,Yes,50.08,Mkt&HR,56.89,Placed,640924.0
+31,83.51,Others,60.42,Central,Arts,51.95,Sci&Tech,Yes,61.38,Mkt&Fin,54.44,Placed,584130.0
+32,93.54,Central,51.36,Others,Arts,50.66,Sci&Tech,No,66.45,Mkt&Fin,53.49,Not Placed,
+33,64.66,Central,72.51,Central,Arts,68.94,Comm&Mgmt,Yes,47.22,Mkt&Fin,65.65,Placed,635902.0
+34,66.67,Others,80.25,Central,Arts,56.58,Comm&Mgmt,No,41.2,Mkt&HR,51.82,Not Placed,
+35,71.13,Others,48.5,Central,Commerce,78.21,Others,No,97.66,Mkt&Fin,63.35,Placed,636604.0
+36,58.53,Others,69.06,Central,Commerce,81.81,Sci&Tech,Yes,90.85,Mkt&HR,88.46,Placed,761910.0
+37,55.85,Others,84.11,Others,Science,59.13,Comm&Mgmt,No,92.92,Mkt&Fin,70.3,Placed,610345.0
+38,71.41,Central,82.4,Others,Commerce,73.69,Others,Yes,56.5,Mkt&HR,82.91,Placed,637338.0
+39,60.21,Others,85.75,Others,Science,56.18,Others,No,52.77,Mkt&HR,55.17,Not Placed,
+40,80.14,Central,67.41,Central,Commerce,62.14,Sci&Tech,No,64.7,Mkt&Fin,60.72,Placed,533052.0
+41,69.67,Central,86.03,Central,Science,85.55,Others,Yes,66.29,Mkt&Fin,87.86,Placed,709119.0
+42,87.47,Others,57.04,Central,Science,71.76,Sci&Tech,Yes,40.32,Mkt&Fin,65.34,Placed,631774.0
+43,81.51,Others,63.04,Central,Science,85.44,Comm&Mgmt,Yes,85.2,Mkt&Fin,75.94,Placed,739063.0
+44,64.06,Others,53.82,Others,Arts,59.01,Comm&Mgmt,No,97.81,Mkt&Fin,89.05,Placed,580503.0
+45,87.45,Central,68.37,Others,Science,63.2,Others,Yes,70.66,Mkt&Fin,72.03,Placed,679113.0
+46,86.21,Others,64.6,Central,Science,68.84,Others,No,62.52,Mkt&HR,62.21,Placed,548976.0
+47,67.44,Central,57.05,Others,Commerce,69.2,Others,Yes,62.78,Mkt&Fin,71.28,Placed,641639.0
+48,62.97,Others,82.59,Others,Science,89.91,Others,No,45.57,Mkt&HR,52.19,Placed,595365.0
+49,80.71,Others,60.69,Central,Commerce,54.58,Comm&Mgmt,Yes,55.44,Mkt&Fin,54.49,Placed,585455.0
+50,56.29,Others,58.64,Others,Commerce,84.08,Others,No,69.12,Mkt&HR,50.29,Placed,629257.0
+51,59.0,Central,51.54,Central,Science,84.55,Sci&Tech,Yes,65.05,Mkt&HR,85.37,Placed,687273.0
+52,50.33,Central,66.94,Central,Commerce,72.13,Comm&Mgmt,No,71.61,Mkt&Fin,76.85,Placed,585535.0
+53,85.41,Central,60.15,Others,Science,63.76,Sci&Tech,No,89.25,Mkt&HR,61.93,Placed,589927.0
+54,79.92,Others,63.46,Others,Commerce,70.77,Others,Yes,53.06,Mkt&Fin,58.85,Placed,666272.0
+55,81.73,Others,56.8,Central,Arts,61.7,Others,No,41.6,Mkt&HR,77.32,Not Placed,
+56,85.13,Central,83.16,Others,Arts,81.96,Others,Yes,42.22,Mkt&HR,86.78,Placed,676585.0
+57,70.65,Others,91.5,Others,Commerce,69.93,Others,No,47.78,Mkt&Fin,61.97,Placed,517776.0
+58,75.59,Others,69.9,Others,Science,87.03,Sci&Tech,No,73.09,Mkt&Fin,62.86,Placed,630941.0
+59,56.29,Central,77.15,Central,Science,74.91,Others,No,86.87,Mkt&Fin,84.17,Placed,639161.0
+60,55.15,Central,88.36,Others,Science,70.57,Comm&Mgmt,Yes,91.43,Mkt&Fin,85.74,Placed,702582.0
+61,80.08,Others,94.94,Others,Science,78.44,Others,Yes,76.84,Mkt&Fin,86.56,Placed,735386.0
+62,71.2,Others,75.68,Others,Arts,70.16,Others,Yes,63.38,Mkt&HR,61.73,Placed,675886.0
+63,75.44,Central,89.49,Others,Science,86.18,Comm&Mgmt,Yes,48.96,Mkt&Fin,54.81,Placed,690304.0
+64,84.42,Others,90.43,Others,Commerce,57.38,Sci&Tech,Yes,63.28,Mkt&HR,67.6,Placed,610856.0
+65,78.56,Others,84.57,Others,Science,88.93,Comm&Mgmt,No,59.28,Mkt&HR,61.83,Placed,626251.0
+66,74.91,Others,68.05,Others,Commerce,82.49,Comm&Mgmt,No,90.46,Mkt&HR,85.35,Placed,670530.0
+67,75.16,Others,49.06,Others,Science,84.43,Others,No,68.23,Mkt&HR,51.47,Placed,604380.0
+68,63.68,Others,45.79,Central,Commerce,69.32,Comm&Mgmt,No,53.12,Mkt&HR,75.36,Placed,543556.0
+69,51.39,Central,68.86,Central,Commerce,83.49,Comm&Mgmt,Yes,56.75,Mkt&Fin,86.25,Placed,667001.0
+70,69.65,Central,69.72,Others,Arts,62.27,Comm&Mgmt,No,47.92,Mkt&HR,89.07,Placed,502354.0
+71,59.66,Central,65.37,Others,Commerce,80.48,Sci&Tech,Yes,93.28,Mkt&Fin,76.01,Placed,735533.0
+72,68.38,Others,73.41,Others,Arts,55.62,Sci&Tech,Yes,42.92,Mkt&Fin,88.0,Placed,580519.0
+73,88.4,Central,72.61,Central,Arts,62.28,Sci&Tech,No,40.75,Mkt&HR,53.03,Placed,495781.0
+74,60.53,Central,86.83,Others,Science,67.83,Comm&Mgmt,No,50.61,Mkt&HR,64.37,Placed,531350.0
+75,52.62,Others,50.43,Central,Arts,62.89,Comm&Mgmt,No,87.03,Mkt&Fin,50.35,Placed,596587.0
+76,62.66,Central,56.26,Central,Commerce,65.48,Others,Yes,70.36,Mkt&Fin,89.25,Placed,683396.0
+77,63.21,Central,84.65,Central,Commerce,82.8,Others,No,76.3,Mkt&HR,86.11,Placed,610836.0
+78,79.79,Central,87.39,Central,Commerce,60.27,Sci&Tech,Yes,60.75,Mkt&Fin,51.12,Placed,613028.0
+79,75.07,Central,94.74,Others,Science,79.81,Sci&Tech,Yes,43.98,Mkt&HR,50.73,Placed,638160.0
+80,85.28,Central,88.65,Others,Science,52.95,Comm&Mgmt,No,89.66,Mkt&Fin,64.68,Placed,584577.0
+81,79.89,Others,89.49,Central,Arts,80.63,Others,Yes,51.13,Mkt&HR,60.34,Placed,648782.0
+82,68.29,Central,60.72,Others,Science,81.68,Sci&Tech,No,41.92,Mkt&Fin,83.88,Placed,530447.0
+83,86.63,Central,65.08,Central,Commerce,66.07,Sci&Tech,No,73.22,Mkt&HR,56.42,Placed,552671.0
+84,57.51,Others,58.4,Central,Arts,78.9,Sci&Tech,Yes,44.83,Mkt&HR,81.63,Placed,664820.0
+85,51.02,Central,75.31,Others,Arts,86.61,Comm&Mgmt,No,45.55,Mkt&HR,72.18,Placed,579911.0
+86,54.05,Others,91.94,Central,Arts,82.03,Others,No,86.42,Mkt&HR,65.1,Placed,664913.0
+87,82.51,Others,62.23,Others,Science,65.62,Others,No,68.51,Mkt&HR,55.83,Placed,544094.0
+88,70.78,Others,72.85,Central,Science,69.37,Comm&Mgmt,No,54.01,Mkt&HR,89.91,Placed,535832.0
+89,57.26,Central,59.81,Central,Science,81.17,Sci&Tech,No,60.22,Mkt&HR,74.72,Placed,591719.0
+90,72.55,Central,53.49,Others,Arts,61.7,Comm&Mgmt,Yes,82.3,Mkt&Fin,67.58,Placed,653353.0
+91,56.85,Others,54.76,Others,Commerce,82.16,Comm&Mgmt,No,43.85,Mkt&Fin,64.85,Placed,580106.0
+92,81.33,Central,47.9,Central,Arts,63.12,Sci&Tech,No,46.76,Mkt&Fin,86.23,Placed,523113.0
+93,70.08,Others,92.46,Central,Commerce,82.24,Others,Yes,75.74,Mkt&HR,82.85,Placed,705387.0
+94,67.15,Central,65.14,Others,Science,53.47,Others,No,75.2,Mkt&HR,82.45,Placed,552953.0
+95,63.57,Central,86.71,Central,Commerce,51.78,Sci&Tech,No,96.4,Mkt&HR,74.65,Placed,570579.0
+96,78.36,Others,79.07,Central,Science,89.91,Sci&Tech,No,61.72,Mkt&HR,85.52,Placed,609982.0
+97,66.28,Others,54.6,Others,Arts,84.78,Sci&Tech,No,43.77,Mkt&HR,61.97,Placed,589187.0
+98,53.94,Others,53.77,Central,Arts,85.31,Others,No,71.18,Mkt&Fin,78.15,Placed,624219.0
+99,55.31,Others,85.6,Others,Arts,88.05,Comm&Mgmt,No,77.02,Mkt&HR,66.18,Placed,629549.0
+100,93.29,Central,58.24,Central,Commerce,67.53,Sci&Tech,No,48.1,Mkt&HR,74.0,Placed,539263.0
+101,90.89,Others,90.66,Others,Commerce,61.47,Sci&Tech,No,72.07,Mkt&Fin,89.93,Placed,564336.0
+102,81.49,Others,52.0,Others,Arts,55.2,Sci&Tech,Yes,51.47,Mkt&Fin,89.38,Placed,578142.0
+103,61.96,Central,78.89,Central,Science,70.05,Comm&Mgmt,Yes,88.99,Mkt&HR,70.5,Placed,721998.0
+104,93.61,Central,85.72,Central,Commerce,58.8,Others,No,88.44,Mkt&HR,72.95,Placed,584728.0
+105,85.04,Others,56.76,Central,Arts,87.42,Sci&Tech,No,64.92,Mkt&Fin,85.89,Placed,605867.0
+106,82.26,Central,58.81,Others,Science,50.16,Sci&Tech,No,96.07,Mkt&HR,89.43,Placed,564151.0
+107,70.22,Others,93.23,Others,Commerce,55.73,Comm&Mgmt,Yes,96.83,Mkt&Fin,81.14,Placed,702815.0
+108,62.25,Central,58.23,Others,Arts,59.86,Others,Yes,47.5,Mkt&HR,52.61,Not Placed,
+109,54.34,Central,66.5,Central,Science,57.96,Comm&Mgmt,No,61.33,Mkt&HR,62.91,Not Placed,
+110,90.62,Central,66.63,Central,Science,59.03,Sci&Tech,No,74.82,Mkt&HR,85.86,Placed,568302.0
+111,70.51,Central,57.65,Others,Arts,76.24,Sci&Tech,Yes,44.92,Mkt&HR,80.73,Placed,665396.0
+112,59.11,Others,83.79,Others,Science,63.1,Others,No,62.19,Mkt&HR,79.69,Placed,529914.0
+113,63.77,Others,83.59,Others,Science,74.6,Others,No,55.15,Mkt&HR,76.72,Placed,547429.0
+114,76.06,Others,63.92,Central,Science,85.61,Others,No,95.22,Mkt&Fin,66.61,Placed,693991.0
+115,57.95,Others,86.76,Central,Commerce,74.1,Comm&Mgmt,Yes,63.87,Mkt&Fin,66.13,Placed,673177.0
+116,88.55,Central,55.65,Central,Commerce,77.78,Others,No,84.23,Mkt&HR,82.36,Placed,630246.0
+117,84.13,Others,45.22,Central,Arts,64.62,Comm&Mgmt,No,62.43,Mkt&Fin,61.75,Placed,544371.0
+118,82.38,Others,73.56,Central,Commerce,56.39,Sci&Tech,No,47.65,Mkt&Fin,77.39,Not Placed,
+119,69.44,Others,94.7,Others,Science,62.82,Comm&Mgmt,Yes,90.06,Mkt&HR,79.05,Placed,699807.0
+120,78.23,Others,46.93,Central,Commerce,88.57,Others,No,40.02,Mkt&HR,83.78,Placed,566915.0
+121,76.28,Others,55.4,Others,Commerce,74.87,Comm&Mgmt,No,43.24,Mkt&HR,62.8,Placed,530692.0
+122,79.24,Others,70.95,Others,Science,61.1,Others,Yes,61.13,Mkt&HR,79.68,Placed,625593.0
+123,53.8,Others,85.5,Others,Arts,68.04,Others,No,79.84,Mkt&Fin,54.26,Placed,596615.0
+124,68.71,Others,49.45,Others,Science,83.42,Sci&Tech,No,59.82,Mkt&HR,55.52,Placed,610798.0
+125,51.87,Others,64.76,Central,Commerce,76.74,Sci&Tech,No,43.85,Mkt&HR,66.69,Not Placed,
+126,72.23,Central,82.35,Others,Commerce,72.43,Sci&Tech,Yes,58.43,Mkt&HR,52.21,Placed,668025.0
+127,64.84,Central,63.58,Central,Commerce,85.41,Others,No,54.21,Mkt&HR,87.91,Placed,585302.0
+128,56.5,Others,54.44,Others,Arts,76.9,Others,Yes,40.31,Mkt&HR,86.08,Placed,650004.0
+129,54.65,Central,54.77,Others,Commerce,75.71,Sci&Tech,No,71.02,Mkt&HR,51.96,Placed,588858.0
+130,76.44,Central,65.5,Others,Science,57.59,Sci&Tech,No,46.77,Mkt&HR,83.53,Not Placed,
+131,57.68,Others,68.97,Central,Commerce,54.26,Comm&Mgmt,Yes,56.67,Mkt&HR,70.35,Placed,578882.0
+132,91.63,Others,88.09,Central,Science,88.61,Comm&Mgmt,Yes,77.19,Mkt&Fin,78.08,Placed,733281.0
+133,76.15,Others,77.11,Central,Arts,73.95,Others,Yes,82.06,Mkt&Fin,85.48,Placed,722891.0
+134,65.61,Central,79.52,Central,Science,66.63,Others,No,55.28,Mkt&Fin,73.08,Placed,514793.0
+135,76.59,Central,94.15,Others,Science,73.56,Sci&Tech,No,59.09,Mkt&Fin,54.65,Placed,550058.0
+136,51.03,Others,65.59,Central,Commerce,52.47,Sci&Tech,No,54.32,Mkt&Fin,50.1,Not Placed,
+137,93.14,Others,65.17,Central,Commerce,82.89,Comm&Mgmt,Yes,95.5,Mkt&HR,69.88,Placed,783327.0
+138,71.7,Central,91.17,Others,Arts,58.67,Comm&Mgmt,Yes,51.05,Mkt&HR,87.97,Placed,598873.0
+139,85.22,Others,57.29,Central,Commerce,82.18,Others,Yes,50.62,Mkt&HR,72.9,Placed,668124.0
+140,53.72,Central,81.49,Others,Science,71.38,Comm&Mgmt,No,65.81,Mkt&Fin,64.92,Placed,571221.0
+141,71.9,Others,82.73,Central,Commerce,61.06,Comm&Mgmt,No,50.98,Mkt&HR,51.24,Placed,523647.0
+142,72.08,Others,49.89,Central,Commerce,51.21,Sci&Tech,No,49.09,Mkt&Fin,86.6,Not Placed,
+143,92.2,Others,68.41,Others,Science,82.63,Sci&Tech,Yes,45.56,Mkt&Fin,63.09,Placed,647681.0
+144,75.73,Others,55.03,Others,Arts,57.06,Others,No,77.13,Mkt&HR,78.19,Placed,546996.0
+145,71.31,Central,54.27,Others,Commerce,52.07,Others,Yes,75.5,Mkt&Fin,77.77,Placed,619942.0
+146,62.01,Central,68.19,Others,Arts,80.24,Sci&Tech,No,77.71,Mkt&HR,60.16,Placed,630333.0
+147,64.92,Central,59.47,Central,Science,64.0,Others,No,84.85,Mkt&HR,52.55,Placed,568835.0
+148,73.43,Others,84.8,Others,Arts,65.57,Comm&Mgmt,No,58.93,Mkt&Fin,65.4,Placed,545005.0
+149,69.75,Others,90.38,Central,Commerce,59.88,Comm&Mgmt,No,93.27,Mkt&HR,62.69,Placed,572673.0
+150,50.97,Others,85.14,Others,Arts,84.37,Others,Yes,82.53,Mkt&Fin,78.01,Placed,766772.0
+151,87.18,Central,58.3,Central,Commerce,61.89,Others,No,86.67,Mkt&HR,82.79,Placed,591012.0
+152,90.33,Central,58.71,Others,Arts,58.41,Sci&Tech,Yes,81.82,Mkt&HR,58.9,Placed,645815.0
+153,56.31,Others,57.74,Central,Science,62.37,Sci&Tech,No,60.79,Mkt&Fin,71.13,Placed,556634.0
+154,74.93,Others,51.75,Others,Science,58.13,Others,Yes,56.42,Mkt&HR,51.62,Not Placed,
+155,54.89,Others,92.19,Others,Commerce,62.71,Others,Yes,64.51,Mkt&HR,58.57,Not Placed,
+156,80.25,Central,65.1,Others,Science,53.32,Sci&Tech,Yes,45.63,Mkt&Fin,80.47,Not Placed,
+157,62.66,Central,56.23,Others,Commerce,56.34,Others,Yes,66.17,Mkt&HR,81.74,Not Placed,
+158,79.67,Others,87.33,Central,Science,66.68,Comm&Mgmt,No,42.5,Mkt&HR,81.06,Placed,525435.0
+159,82.71,Others,64.96,Central,Arts,85.18,Comm&Mgmt,No,40.23,Mkt&HR,55.7,Not Placed,
+160,84.59,Central,46.76,Others,Commerce,52.29,Sci&Tech,Yes,94.03,Mkt&Fin,72.04,Placed,675745.0
+161,54.85,Others,53.1,Central,Commerce,58.51,Others,No,79.98,Mkt&Fin,66.91,Placed,584847.0
+162,91.22,Central,76.96,Central,Commerce,86.33,Others,No,72.59,Mkt&Fin,89.66,Placed,625588.0
+163,60.36,Central,84.15,Central,Commerce,85.6,Comm&Mgmt,Yes,59.78,Mkt&HR,76.16,Placed,695403.0
+164,51.68,Others,55.55,Others,Commerce,77.18,Others,No,73.09,Mkt&Fin,87.41,Placed,617831.0
+165,74.97,Others,90.87,Central,Commerce,59.62,Others,No,91.71,Mkt&HR,55.81,Placed,565581.0
+166,66.69,Others,87.55,Central,Science,66.79,Others,No,77.84,Mkt&Fin,68.03,Placed,578800.0
+167,87.34,Central,87.42,Others,Commerce,58.45,Others,No,74.94,Mkt&Fin,80.86,Placed,567969.0
+168,86.37,Others,56.38,Central,Arts,55.14,Others,No,66.69,Mkt&HR,64.71,Placed,510189.0
+169,64.27,Others,47.53,Central,Arts,65.2,Others,Yes,60.05,Mkt&Fin,75.3,Placed,630900.0
+170,92.88,Others,88.37,Central,Arts,73.03,Others,Yes,80.52,Mkt&Fin,70.47,Placed,703755.0
+171,63.09,Central,60.29,Others,Science,64.4,Comm&Mgmt,No,96.9,Mkt&Fin,89.68,Placed,590714.0
+172,73.18,Others,75.95,Central,Commerce,74.43,Others,No,64.64,Mkt&Fin,56.95,Placed,556111.0
+173,61.52,Others,83.0,Others,Arts,61.85,Sci&Tech,No,62.75,Mkt&HR,87.41,Placed,523621.0
+174,92.12,Others,51.41,Central,Commerce,63.83,Comm&Mgmt,Yes,64.83,Mkt&Fin,66.06,Placed,666043.0
+175,57.41,Central,84.04,Central,Science,81.63,Comm&Mgmt,Yes,64.68,Mkt&HR,68.72,Placed,685341.0
+176,52.02,Others,91.93,Central,Science,85.13,Others,Yes,97.46,Mkt&HR,71.14,Placed,786857.0
+177,69.58,Central,81.42,Central,Arts,62.88,Sci&Tech,Yes,80.99,Mkt&HR,60.61,Placed,671923.0
+178,94.66,Central,67.06,Central,Science,72.86,Comm&Mgmt,Yes,60.83,Mkt&HR,88.55,Placed,678255.0
+179,90.13,Others,88.83,Central,Arts,61.13,Sci&Tech,No,61.55,Mkt&Fin,86.46,Placed,522999.0
+180,83.69,Central,71.37,Central,Arts,52.13,Others,No,64.99,Mkt&HR,88.92,Placed,530093.0
+181,90.09,Others,82.24,Others,Science,79.51,Others,No,42.13,Mkt&HR,89.88,Placed,541332.0
+182,90.21,Central,86.03,Others,Arts,56.84,Sci&Tech,No,70.61,Mkt&HR,76.79,Placed,551318.0
+183,73.35,Others,82.47,Others,Commerce,67.03,Others,Yes,87.06,Mkt&Fin,68.07,Placed,716780.0
+184,64.22,Others,59.39,Others,Arts,69.48,Comm&Mgmt,No,78.31,Mkt&Fin,84.03,Placed,586652.0
+185,84.74,Others,50.89,Others,Commerce,57.38,Others,Yes,51.51,Mkt&Fin,50.95,Not Placed,
+186,79.77,Central,56.92,Others,Arts,53.78,Others,No,82.23,Mkt&Fin,83.38,Placed,531731.0
+187,66.81,Central,70.14,Others,Science,63.92,Sci&Tech,Yes,81.73,Mkt&HR,69.89,Placed,680041.0
+188,54.25,Central,70.26,Central,Arts,88.09,Sci&Tech,No,55.23,Mkt&Fin,76.93,Placed,593398.0
+189,83.61,Central,74.13,Others,Commerce,74.61,Comm&Mgmt,No,76.13,Mkt&Fin,64.96,Placed,623810.0
+190,61.81,Others,64.76,Central,Science,65.26,Sci&Tech,No,75.44,Mkt&Fin,64.74,Not Placed,
+191,92.16,Central,84.34,Others,Arts,51.56,Sci&Tech,No,88.71,Mkt&HR,51.27,Placed,571267.0
+192,60.84,Central,90.66,Others,Commerce,74.01,Others,No,47.89,Mkt&HR,66.95,Placed,565264.0
+193,55.52,Central,57.34,Central,Commerce,53.69,Others,Yes,51.3,Mkt&Fin,66.33,Not Placed,
+194,87.4,Central,81.83,Central,Commerce,71.7,Comm&Mgmt,No,68.19,Mkt&HR,58.99,Placed,589873.0
+195,56.9,Others,78.9,Central,Commerce,80.08,Sci&Tech,No,42.56,Mkt&HR,59.89,Not Placed,
+196,58.07,Others,71.15,Central,Science,66.94,Sci&Tech,No,64.1,Mkt&HR,73.37,Placed,539240.0
+197,76.97,Central,54.43,Others,Science,61.98,Others,No,85.72,Mkt&HR,62.71,Placed,598149.0
+198,89.36,Others,84.76,Others,Commerce,51.9,Sci&Tech,Yes,48.63,Mkt&HR,83.21,Placed,562682.0
+199,58.84,Others,93.03,Others,Commerce,50.99,Sci&Tech,No,66.68,Mkt&Fin,54.46,Placed,495590.0
+200,63.96,Central,81.09,Others,Commerce,67.2,Comm&Mgmt,No,97.41,Mkt&HR,73.11,Placed,640408.0
+201,84.98,Central,90.89,Central,Arts,85.33,Comm&Mgmt,Yes,69.34,Mkt&Fin,56.4,Placed,700391.0
+202,93.73,Central,94.21,Central,Arts,59.76,Comm&Mgmt,Yes,68.9,Mkt&HR,71.13,Placed,624175.0
+203,72.53,Central,62.6,Others,Commerce,72.96,Comm&Mgmt,Yes,72.41,Mkt&Fin,72.1,Placed,689248.0
+204,56.48,Central,76.91,Others,Commerce,77.37,Others,No,50.79,Mkt&HR,75.69,Placed,562896.0
+205,50.63,Central,68.7,Others,Commerce,52.43,Comm&Mgmt,Yes,48.54,Mkt&Fin,67.1,Not Placed,
+206,60.33,Others,94.33,Central,Arts,56.12,Others,Yes,79.29,Mkt&Fin,70.38,Placed,645852.0
+207,55.93,Central,49.69,Others,Arts,63.25,Comm&Mgmt,Yes,62.95,Mkt&Fin,57.24,Placed,626912.0
+208,80.49,Others,65.62,Others,Arts,76.8,Comm&Mgmt,No,56.81,Mkt&HR,68.52,Placed,559120.0
+209,55.48,Central,88.78,Central,Commerce,67.56,Comm&Mgmt,Yes,41.82,Mkt&Fin,64.92,Not Placed,
+210,72.78,Central,59.2,Central,Science,79.37,Others,Yes,89.07,Mkt&HR,76.65,Placed,750119.0
+211,81.24,Others,84.39,Central,Commerce,84.7,Others,No,41.88,Mkt&HR,67.39,Placed,561509.0
+212,76.15,Others,64.14,Central,Arts,80.33,Sci&Tech,Yes,83.5,Mkt&HR,81.17,Placed,755968.0
+213,58.99,Others,94.0,Central,Science,89.69,Others,No,62.16,Mkt&Fin,67.04,Placed,593805.0
+214,86.19,Central,89.18,Others,Commerce,80.17,Others,No,74.72,Mkt&Fin,59.43,Placed,628831.0
+215,82.19,Central,60.07,Others,Arts,84.09,Others,No,54.37,Mkt&Fin,60.95,Placed,606496.0
+216,83.25,Central,83.51,Central,Science,83.29,Sci&Tech,No,49.01,Mkt&Fin,51.81,Placed,572198.0
+217,55.9,Central,61.84,Others,Science,79.21,Others,No,70.94,Mkt&HR,71.6,Placed,614476.0
+218,55.57,Others,75.32,Others,Commerce,82.07,Sci&Tech,Yes,80.35,Mkt&HR,83.24,Placed,728944.0
+219,91.74,Central,77.92,Central,Commerce,87.39,Sci&Tech,Yes,51.34,Mkt&HR,80.76,Placed,694601.0
+220,67.89,Central,86.48,Central,Arts,69.01,Others,Yes,65.31,Mkt&HR,67.51,Not Placed,
+221,63.54,Others,46.22,Central,Commerce,75.53,Sci&Tech,Yes,65.79,Mkt&Fin,57.84,Placed,684681.0
+222,71.99,Central,56.01,Others,Commerce,70.6,Others,No,52.53,Mkt&Fin,84.54,Placed,545764.0
+223,79.83,Central,80.6,Others,Arts,84.04,Comm&Mgmt,Yes,72.77,Mkt&Fin,52.27,Placed,746994.0
+224,93.0,Central,73.18,Others,Commerce,67.25,Sci&Tech,Yes,48.46,Mkt&Fin,65.97,Placed,623501.0
+225,62.89,Central,69.78,Others,Science,82.79,Sci&Tech,No,69.57,Mkt&Fin,84.26,Placed,596169.0
+226,91.62,Others,47.76,Central,Arts,81.97,Others,No,46.58,Mkt&Fin,65.73,Placed,573211.0
+227,51.12,Others,62.41,Central,Science,88.48,Others,Yes,68.16,Mkt&HR,54.72,Placed,736404.0
+228,74.98,Others,88.26,Others,Science,59.96,Comm&Mgmt,Yes,58.07,Mkt&Fin,60.64,Placed,607877.0
+229,78.53,Central,46.54,Central,Commerce,78.38,Others,Yes,66.23,Mkt&Fin,74.0,Placed,704036.0
+230,54.77,Others,64.82,Central,Science,80.28,Sci&Tech,Yes,65.16,Mkt&Fin,56.08,Placed,674346.0
+231,56.32,Others,92.26,Central,Science,87.45,Comm&Mgmt,No,92.66,Mkt&Fin,76.2,Placed,663670.0
+232,68.86,Central,47.54,Central,Science,86.28,Sci&Tech,No,68.42,Mkt&Fin,67.53,Placed,638435.0
+233,93.48,Others,82.49,Central,Commerce,72.94,Comm&Mgmt,No,87.47,Mkt&Fin,63.38,Placed,624635.0
+234,76.82,Central,57.88,Central,Commerce,73.17,Sci&Tech,No,53.09,Mkt&HR,59.64,Placed,556053.0
+235,91.99,Others,88.33,Central,Arts,56.69,Comm&Mgmt,No,60.42,Mkt&HR,82.93,Placed,521957.0
+236,86.2,Others,82.3,Others,Arts,89.0,Comm&Mgmt,No,44.36,Mkt&Fin,65.87,Placed,563963.0
+237,71.03,Central,89.29,Others,Arts,60.2,Comm&Mgmt,Yes,64.4,Mkt&Fin,79.54,Placed,657466.0
+238,85.31,Central,55.8,Others,Commerce,78.99,Comm&Mgmt,Yes,78.78,Mkt&HR,67.61,Placed,709431.0
+239,50.8,Central,71.56,Others,Arts,81.83,Comm&Mgmt,No,88.61,Mkt&HR,53.67,Placed,662031.0
+240,54.91,Others,83.96,Others,Commerce,67.65,Comm&Mgmt,No,72.82,Mkt&Fin,67.62,Placed,598086.0
+241,87.32,Central,57.28,Central,Science,58.45,Sci&Tech,Yes,77.12,Mkt&Fin,70.31,Placed,641636.0
+242,85.86,Others,56.54,Others,Commerce,57.56,Sci&Tech,Yes,50.28,Mkt&HR,68.31,Placed,604961.0
+243,60.47,Central,46.36,Others,Arts,84.26,Comm&Mgmt,Yes,42.16,Mkt&Fin,82.65,Placed,639216.0
+244,73.88,Central,92.93,Others,Commerce,70.43,Others,Yes,85.92,Mkt&HR,86.43,Placed,714935.0
+245,77.27,Others,80.5,Central,Arts,53.61,Others,No,49.69,Mkt&HR,81.47,Placed,482260.0
+246,89.05,Others,76.78,Central,Commerce,78.68,Comm&Mgmt,No,45.29,Mkt&Fin,73.31,Placed,530228.0
+247,77.14,Others,82.2,Others,Arts,60.01,Others,No,94.38,Mkt&Fin,71.66,Placed,602390.0
+248,68.57,Central,71.58,Others,Science,85.06,Others,Yes,95.88,Mkt&Fin,75.78,Placed,795389.0
+249,66.84,Central,68.81,Others,Commerce,62.38,Comm&Mgmt,Yes,75.74,Mkt&HR,61.51,Placed,642774.0
+250,69.16,Central,67.48,Others,Commerce,58.01,Sci&Tech,No,61.96,Mkt&HR,82.47,Placed,542589.0
+251,79.34,Others,77.02,Central,Arts,53.39,Comm&Mgmt,No,88.33,Mkt&Fin,84.27,Placed,579007.0
+252,89.04,Others,55.08,Central,Commerce,70.46,Comm&Mgmt,Yes,51.87,Mkt&Fin,60.69,Placed,642508.0
+253,70.43,Central,89.4,Others,Commerce,68.03,Sci&Tech,Yes,64.9,Mkt&Fin,86.11,Placed,678958.0
+254,61.15,Others,85.59,Others,Science,80.05,Others,No,60.71,Mkt&HR,83.95,Placed,577039.0
+255,60.65,Central,62.48,Central,Commerce,68.58,Others,No,92.94,Mkt&Fin,66.98,Placed,627623.0
+256,83.57,Others,73.93,Central,Commerce,63.75,Sci&Tech,No,93.35,Mkt&HR,86.36,Placed,612852.0
+257,86.75,Others,52.05,Central,Science,60.47,Comm&Mgmt,No,77.75,Mkt&Fin,54.82,Placed,565934.0
+258,54.74,Others,93.62,Central,Arts,61.13,Sci&Tech,No,46.42,Mkt&Fin,51.12,Not Placed,
+259,53.0,Central,90.14,Others,Arts,87.11,Sci&Tech,No,67.97,Mkt&HR,63.91,Placed,641084.0
+260,76.75,Others,91.09,Central,Arts,56.6,Sci&Tech,Yes,54.23,Mkt&HR,72.62,Placed,617566.0
+261,56.58,Central,61.61,Others,Commerce,89.53,Comm&Mgmt,No,91.33,Mkt&Fin,64.06,Placed,680669.0
+262,87.11,Others,53.46,Central,Science,63.08,Sci&Tech,No,48.03,Mkt&HR,87.68,Placed,534152.0
+263,63.97,Central,55.59,Others,Commerce,53.54,Sci&Tech,Yes,43.15,Mkt&HR,60.19,Not Placed,
+264,56.47,Others,49.5,Central,Arts,59.95,Comm&Mgmt,No,80.86,Mkt&Fin,61.25,Placed,573412.0
+265,91.44,Central,51.01,Others,Science,52.34,Comm&Mgmt,No,66.29,Mkt&Fin,75.39,Placed,499040.0
+266,57.45,Central,48.57,Others,Commerce,81.6,Sci&Tech,Yes,88.63,Mkt&HR,50.15,Placed,738120.0
+267,62.81,Others,94.49,Others,Arts,70.5,Comm&Mgmt,Yes,44.33,Mkt&Fin,79.1,Placed,645394.0
+268,56.91,Others,48.7,Others,Commerce,63.48,Sci&Tech,No,86.46,Mkt&HR,65.1,Placed,588256.0
+269,55.2,Central,51.63,Others,Commerce,76.48,Others,No,42.17,Mkt&HR,89.11,Placed,539341.0
+270,50.95,Others,86.36,Others,Arts,75.23,Comm&Mgmt,No,41.63,Mkt&HR,77.66,Placed,549765.0
+271,52.49,Central,74.01,Central,Science,87.59,Others,No,66.76,Mkt&HR,52.09,Placed,612593.0
+272,57.86,Central,83.72,Central,Arts,88.45,Sci&Tech,No,52.83,Mkt&Fin,53.71,Placed,584277.0
+273,52.4,Central,76.55,Central,Science,77.23,Others,No,74.44,Mkt&Fin,53.53,Placed,581013.0
+274,76.6,Central,89.11,Central,Arts,82.71,Comm&Mgmt,No,41.5,Mkt&HR,88.1,Placed,542699.0
+275,80.63,Central,76.92,Others,Science,81.7,Sci&Tech,No,42.05,Mkt&HR,77.36,Placed,554803.0
+276,67.71,Central,71.11,Central,Commerce,69.65,Others,No,82.17,Mkt&HR,67.1,Placed,609531.0
+277,64.31,Central,80.64,Central,Commerce,78.18,Sci&Tech,No,52.19,Mkt&HR,58.02,Not Placed,
+278,72.7,Central,67.37,Others,Arts,53.13,Sci&Tech,No,78.07,Mkt&Fin,84.95,Placed,537751.0
+279,89.38,Central,62.3,Central,Commerce,80.32,Others,Yes,83.5,Mkt&Fin,58.06,Placed,719041.0
+280,88.3,Others,68.38,Central,Science,88.47,Sci&Tech,No,43.44,Mkt&HR,78.27,Placed,593118.0
+281,51.96,Others,53.49,Others,Commerce,53.4,Comm&Mgmt,No,84.65,Mkt&Fin,80.53,Placed,555742.0
+282,58.17,Central,84.83,Others,Commerce,83.44,Sci&Tech,Yes,55.57,Mkt&HR,61.79,Placed,668644.0
+283,60.65,Central,58.04,Others,Science,87.32,Sci&Tech,No,62.59,Mkt&HR,70.2,Placed,617617.0
+284,61.22,Others,52.68,Others,Commerce,59.05,Sci&Tech,No,45.03,Mkt&Fin,58.92,Not Placed,
+285,75.71,Others,57.32,Others,Science,70.99,Sci&Tech,Yes,88.64,Mkt&HR,65.16,Placed,733505.0
+286,68.73,Others,87.1,Others,Arts,87.11,Comm&Mgmt,Yes,72.52,Mkt&Fin,88.61,Placed,719774.0
+287,52.22,Others,61.51,Central,Commerce,88.41,Comm&Mgmt,No,69.27,Mkt&HR,77.73,Placed,647006.0
+288,66.81,Others,79.3,Others,Commerce,55.12,Sci&Tech,No,96.18,Mkt&HR,83.86,Placed,592613.0
+289,73.57,Others,87.82,Central,Commerce,63.96,Comm&Mgmt,Yes,59.4,Mkt&Fin,71.62,Placed,617448.0
+290,54.58,Central,48.89,Central,Arts,77.93,Sci&Tech,No,91.67,Mkt&Fin,59.56,Placed,655096.0
+291,87.51,Central,83.25,Others,Science,58.86,Comm&Mgmt,Yes,81.74,Mkt&Fin,78.52,Placed,676089.0
+292,52.34,Central,60.38,Others,Science,62.99,Others,No,93.85,Mkt&Fin,70.02,Placed,599470.0
+293,91.62,Central,55.83,Central,Commerce,50.93,Others,No,92.65,Mkt&HR,57.07,Not Placed,
+294,54.46,Others,79.45,Others,Arts,56.14,Others,No,97.48,Mkt&HR,66.5,Placed,587281.0
+295,87.96,Others,90.49,Others,Commerce,72.49,Sci&Tech,No,47.64,Mkt&HR,75.39,Placed,543179.0
+296,90.62,Others,59.75,Others,Arts,76.12,Sci&Tech,No,86.17,Mkt&Fin,79.41,Placed,607301.0
+297,94.08,Central,73.44,Central,Commerce,75.96,Others,No,86.66,Mkt&HR,59.73,Placed,618253.0
+298,86.09,Central,59.49,Others,Arts,81.13,Sci&Tech,Yes,77.37,Mkt&Fin,85.04,Placed,733221.0
+299,85.08,Central,72.71,Central,Commerce,66.61,Others,Yes,56.17,Mkt&HR,65.18,Placed,639813.0
+300,78.91,Others,76.09,Others,Commerce,60.94,Comm&Mgmt,Yes,95.98,Mkt&Fin,60.85,Placed,724395.0
+301,85.05,Central,75.52,Central,Science,50.62,Sci&Tech,No,51.86,Mkt&HR,57.8,Placed,466416.0
+302,56.05,Central,76.18,Others,Commerce,58.27,Others,No,68.98,Mkt&Fin,82.17,Not Placed,
+303,74.12,Others,51.75,Central,Commerce,62.5,Comm&Mgmt,No,70.25,Mkt&HR,64.17,Placed,549272.0
+304,73.14,Others,79.68,Central,Science,57.13,Others,Yes,49.39,Mkt&Fin,69.34,Placed,581325.0
+305,88.59,Others,78.74,Central,Commerce,50.81,Comm&Mgmt,Yes,81.91,Mkt&HR,58.91,Placed,663808.0
+306,70.83,Central,79.13,Others,Science,56.3,Sci&Tech,No,45.15,Mkt&Fin,77.44,Placed,490356.0
+307,67.33,Central,48.7,Central,Arts,76.64,Others,No,80.2,Mkt&Fin,81.24,Placed,617091.0
+308,78.78,Central,67.34,Others,Commerce,75.18,Sci&Tech,Yes,89.22,Mkt&Fin,63.58,Placed,718727.0
+309,61.99,Central,65.45,Central,Science,87.43,Comm&Mgmt,Yes,60.26,Mkt&Fin,87.8,Placed,726882.0
+310,56.29,Others,49.34,Central,Commerce,81.93,Comm&Mgmt,Yes,81.15,Mkt&Fin,51.22,Placed,709598.0
+311,71.5,Central,56.12,Others,Science,72.71,Others,No,49.09,Mkt&HR,55.32,Placed,522065.0
+312,68.76,Central,67.05,Others,Commerce,55.5,Others,Yes,89.07,Mkt&Fin,73.55,Placed,653631.0
+313,60.47,Others,82.15,Central,Commerce,72.56,Comm&Mgmt,Yes,95.22,Mkt&HR,78.06,Placed,740770.0
+314,66.54,Central,56.85,Central,Commerce,52.46,Others,No,48.86,Mkt&Fin,60.03,Placed,460229.0
+315,66.49,Central,86.49,Central,Arts,67.24,Sci&Tech,Yes,80.13,Mkt&Fin,72.16,Placed,701837.0
+316,64.74,Central,72.29,Others,Commerce,65.61,Sci&Tech,No,69.34,Mkt&Fin,62.74,Placed,545306.0
+317,67.08,Central,83.02,Others,Arts,67.11,Others,Yes,70.83,Mkt&HR,72.16,Placed,676813.0
+318,80.86,Central,68.63,Central,Arts,61.19,Comm&Mgmt,No,80.98,Mkt&HR,76.37,Placed,585310.0
+319,63.36,Others,69.96,Others,Science,77.43,Comm&Mgmt,No,68.35,Mkt&HR,88.91,Placed,612919.0
+320,92.7,Others,75.99,Central,Commerce,83.64,Sci&Tech,Yes,74.82,Mkt&HR,68.23,Placed,715201.0
+321,91.24,Central,91.4,Central,Arts,80.74,Sci&Tech,Yes,53.39,Mkt&Fin,75.93,Placed,652734.0
+322,71.64,Central,69.59,Others,Arts,75.11,Others,No,61.95,Mkt&Fin,73.12,Placed,587081.0
+323,64.78,Central,71.43,Others,Commerce,71.53,Others,No,90.18,Mkt&HR,62.7,Placed,617385.0
+324,74.09,Others,75.1,Central,Arts,51.24,Others,Yes,46.37,Mkt&HR,60.12,Not Placed,
+325,88.19,Others,81.88,Others,Arts,78.92,Comm&Mgmt,Yes,74.66,Mkt&HR,89.51,Placed,695486.0
+326,79.37,Others,48.59,Central,Commerce,71.8,Comm&Mgmt,Yes,50.69,Mkt&Fin,58.27,Not Placed,
+327,86.2,Central,70.78,Others,Commerce,60.83,Sci&Tech,No,89.1,Mkt&HR,81.61,Placed,566647.0
+328,73.97,Central,69.08,Central,Arts,63.11,Sci&Tech,No,73.58,Mkt&Fin,55.86,Placed,560760.0
+329,78.48,Central,91.08,Central,Commerce,87.42,Comm&Mgmt,No,63.38,Mkt&HR,82.17,Placed,589071.0
+330,62.97,Central,69.68,Central,Science,74.97,Comm&Mgmt,Yes,54.49,Mkt&Fin,57.43,Placed,671396.0
+331,83.07,Central,68.42,Others,Commerce,69.04,Sci&Tech,No,65.34,Mkt&HR,88.69,Placed,568044.0
+332,59.11,Others,93.11,Others,Arts,74.84,Comm&Mgmt,No,95.54,Mkt&HR,77.44,Placed,620454.0
+333,81.27,Central,67.53,Central,Commerce,66.55,Comm&Mgmt,Yes,69.53,Mkt&HR,53.6,Placed,663683.0
+334,88.73,Others,54.04,Others,Commerce,68.81,Others,Yes,67.23,Mkt&Fin,77.73,Placed,662300.0
+335,55.94,Others,55.85,Others,Commerce,61.61,Others,No,83.28,Mkt&Fin,74.14,Placed,585072.0
+336,77.65,Others,49.76,Central,Commerce,67.59,Comm&Mgmt,No,61.98,Mkt&HR,63.5,Placed,551671.0
+337,54.28,Central,45.03,Others,Science,77.42,Comm&Mgmt,No,64.79,Mkt&HR,60.43,Placed,584788.0
+338,82.66,Others,66.6,Others,Commerce,51.6,Others,No,59.54,Mkt&Fin,78.75,Placed,515432.0
+339,53.8,Central,83.46,Central,Arts,81.8,Others,No,48.75,Mkt&HR,79.65,Placed,568853.0
+340,92.12,Central,81.67,Central,Science,61.32,Sci&Tech,Yes,81.4,Mkt&HR,63.09,Placed,687470.0
+341,56.18,Central,46.61,Central,Commerce,77.3,Others,Yes,90.64,Mkt&HR,85.05,Placed,757447.0
+342,93.15,Central,73.5,Others,Arts,75.71,Sci&Tech,Yes,92.52,Mkt&Fin,60.75,Placed,754582.0
+343,86.04,Others,52.71,Others,Science,76.11,Comm&Mgmt,No,91.09,Mkt&HR,52.79,Placed,658287.0
+344,76.72,Others,92.05,Central,Arts,74.33,Sci&Tech,No,66.2,Mkt&Fin,73.99,Placed,590283.0
+345,85.22,Others,53.37,Central,Commerce,88.36,Others,Yes,56.48,Mkt&HR,54.28,Placed,706127.0
+346,85.78,Central,76.33,Central,Arts,70.33,Sci&Tech,Yes,77.0,Mkt&Fin,61.07,Placed,691517.0
+347,92.57,Central,61.31,Central,Science,79.29,Others,No,95.37,Mkt&HR,70.29,Placed,638835.0
+348,61.4,Others,77.08,Central,Arts,78.22,Sci&Tech,No,82.17,Mkt&Fin,61.45,Placed,640393.0
+349,76.55,Central,65.61,Central,Science,59.45,Sci&Tech,No,68.7,Mkt&Fin,58.6,Placed,550413.0
+350,54.28,Others,82.98,Others,Arts,61.33,Comm&Mgmt,Yes,79.95,Mkt&HR,78.13,Placed,687554.0
+351,77.73,Others,56.53,Central,Science,66.96,Others,No,84.81,Mkt&HR,71.88,Placed,605573.0
+352,57.71,Others,90.29,Others,Commerce,61.11,Sci&Tech,No,93.32,Mkt&HR,83.59,Placed,593994.0
+353,75.42,Others,70.01,Central,Commerce,64.67,Sci&Tech,No,84.27,Mkt&HR,73.25,Placed,577311.0
+354,75.76,Central,82.8,Central,Arts,65.64,Sci&Tech,No,65.13,Mkt&HR,69.34,Placed,576462.0
+355,70.97,Central,87.49,Others,Arts,74.15,Comm&Mgmt,No,55.87,Mkt&Fin,60.45,Placed,570870.0
+356,73.52,Central,94.94,Others,Science,58.8,Sci&Tech,No,68.99,Mkt&Fin,81.68,Placed,558120.0
+357,84.38,Central,56.2,Others,Arts,82.17,Others,No,59.03,Mkt&Fin,57.87,Not Placed,
+358,85.97,Central,59.34,Others,Commerce,67.5,Sci&Tech,No,94.68,Mkt&Fin,59.69,Placed,617383.0
+359,72.15,Others,57.52,Central,Commerce,78.25,Others,No,69.46,Mkt&Fin,83.66,Placed,575385.0
+360,76.98,Central,58.14,Central,Science,53.26,Others,No,67.38,Mkt&HR,79.65,Placed,498004.0
+361,91.91,Others,74.12,Others,Science,68.8,Others,No,60.2,Mkt&HR,74.51,Placed,562138.0
+362,55.39,Others,94.68,Others,Arts,51.13,Others,Yes,77.09,Mkt&HR,51.56,Placed,618794.0
+363,55.27,Others,94.51,Others,Arts,77.04,Others,Yes,70.16,Mkt&Fin,55.09,Placed,675540.0
+364,53.95,Central,71.34,Others,Commerce,63.75,Sci&Tech,No,47.48,Mkt&HR,70.0,Not Placed,
+365,79.6,Others,76.95,Central,Arts,87.97,Comm&Mgmt,No,90.41,Mkt&HR,79.85,Placed,675756.0
+366,68.84,Central,88.0,Central,Science,62.96,Others,No,60.82,Mkt&Fin,68.56,Placed,516077.0
+367,84.84,Central,91.65,Central,Arts,72.55,Comm&Mgmt,No,65.09,Mkt&HR,50.69,Placed,572823.0
+368,80.21,Central,55.19,Others,Commerce,60.3,Others,No,51.93,Mkt&HR,57.37,Not Placed,
+369,65.01,Central,71.43,Others,Commerce,74.8,Others,No,72.1,Mkt&HR,73.55,Placed,568785.0
+370,90.43,Central,86.64,Central,Commerce,68.68,Others,Yes,80.72,Mkt&HR,77.77,Placed,697722.0
+371,84.31,Central,60.16,Others,Arts,64.83,Sci&Tech,Yes,91.11,Mkt&HR,51.34,Placed,696544.0
+372,62.17,Others,66.99,Others,Commerce,58.15,Comm&Mgmt,No,42.99,Mkt&HR,51.73,Not Placed,
+373,66.39,Central,94.28,Central,Arts,54.46,Sci&Tech,Yes,96.45,Mkt&Fin,60.45,Placed,662066.0
+374,64.15,Central,94.25,Central,Arts,54.8,Sci&Tech,No,80.82,Mkt&HR,53.34,Placed,568395.0
+375,57.09,Others,90.31,Others,Commerce,89.96,Sci&Tech,No,56.49,Mkt&Fin,71.68,Placed,583181.0
+376,56.65,Others,84.92,Others,Arts,66.49,Comm&Mgmt,No,51.86,Mkt&HR,54.95,Placed,541402.0
+377,92.13,Others,58.46,Central,Commerce,50.08,Comm&Mgmt,Yes,57.17,Mkt&HR,75.93,Not Placed,
+378,69.71,Central,61.04,Central,Commerce,88.12,Others,No,90.79,Mkt&HR,81.09,Placed,666324.0
+379,67.25,Others,72.36,Central,Science,50.8,Others,Yes,56.9,Mkt&Fin,88.82,Placed,580227.0
+380,82.84,Others,73.04,Others,Commerce,66.74,Others,No,66.84,Mkt&Fin,87.94,Placed,541011.0
+381,74.88,Central,70.28,Central,Commerce,78.7,Sci&Tech,Yes,80.93,Mkt&HR,60.93,Placed,714956.0
+382,92.13,Central,76.83,Others,Commerce,86.58,Comm&Mgmt,No,90.58,Mkt&Fin,51.18,Placed,674382.0
+383,85.11,Others,65.42,Central,Science,78.52,Others,No,78.2,Mkt&HR,63.18,Placed,628204.0
+384,71.57,Central,82.46,Central,Commerce,68.55,Sci&Tech,Yes,83.68,Mkt&HR,78.34,Placed,682074.0
+385,66.94,Central,61.68,Central,Commerce,88.98,Comm&Mgmt,Yes,50.05,Mkt&Fin,52.39,Placed,667596.0
+386,94.4,Others,61.53,Others,Science,51.57,Others,No,90.89,Mkt&Fin,64.39,Placed,564555.0
+387,82.3,Others,51.36,Central,Science,89.48,Others,Yes,55.99,Mkt&HR,61.92,Placed,709459.0
+388,92.8,Others,54.44,Others,Arts,83.98,Others,Yes,47.45,Mkt&HR,58.77,Placed,695873.0
+389,55.33,Others,87.53,Central,Commerce,87.16,Comm&Mgmt,No,96.62,Mkt&HR,78.25,Placed,692786.0
+390,88.27,Others,67.31,Others,Science,60.19,Comm&Mgmt,No,51.7,Mkt&Fin,76.36,Placed,511485.0
+391,78.67,Central,56.39,Central,Arts,55.7,Comm&Mgmt,No,47.93,Mkt&HR,71.42,Placed,492551.0
+392,55.49,Central,82.97,Central,Science,76.53,Others,No,76.31,Mkt&Fin,86.43,Placed,614487.0
+393,76.47,Others,72.7,Others,Commerce,70.63,Comm&Mgmt,No,58.49,Mkt&Fin,54.13,Placed,551456.0
+394,80.87,Central,46.06,Others,Science,70.93,Comm&Mgmt,No,47.73,Mkt&HR,55.99,Placed,542128.0
+395,50.55,Central,60.82,Others,Science,86.98,Sci&Tech,No,74.87,Mkt&HR,65.34,Placed,620452.0
+396,70.44,Others,53.85,Central,Commerce,74.8,Comm&Mgmt,No,84.02,Mkt&Fin,76.24,Placed,633959.0
+397,87.14,Others,77.79,Others,Science,62.44,Sci&Tech,Yes,86.01,Mkt&HR,73.36,Placed,702423.0
+398,63.29,Central,58.75,Central,Commerce,66.0,Comm&Mgmt,Yes,49.02,Mkt&Fin,52.96,Not Placed,
+399,70.63,Central,48.25,Others,Science,55.34,Others,No,72.3,Mkt&Fin,88.34,Placed,533453.0
+400,69.9,Others,47.75,Others,Arts,57.69,Others,Yes,87.19,Mkt&Fin,62.2,Not Placed,
+401,63.59,Central,74.09,Others,Science,55.73,Comm&Mgmt,No,49.34,Mkt&HR,64.36,Not Placed,
+402,91.33,Others,46.09,Others,Arts,82.41,Others,Yes,52.05,Mkt&HR,74.95,Placed,660128.0
+403,85.16,Others,87.44,Others,Commerce,78.19,Others,No,40.14,Mkt&HR,87.81,Placed,531926.0
+404,54.98,Others,52.77,Others,Arts,71.21,Comm&Mgmt,Yes,70.43,Mkt&HR,76.51,Placed,685222.0
+405,94.87,Central,75.33,Central,Arts,64.97,Others,No,51.29,Mkt&Fin,88.19,Placed,532160.0
+406,89.56,Others,67.23,Central,Arts,76.74,Comm&Mgmt,No,82.01,Mkt&HR,57.5,Placed,609026.0
+407,62.78,Central,67.14,Others,Arts,82.52,Others,No,95.81,Mkt&Fin,74.75,Placed,645038.0
+408,87.66,Others,48.59,Others,Science,85.25,Comm&Mgmt,Yes,52.11,Mkt&Fin,83.16,Placed,685351.0
+409,54.79,Central,85.14,Others,Science,71.88,Sci&Tech,Yes,77.65,Mkt&Fin,70.36,Placed,702867.0
+410,94.96,Central,89.65,Others,Arts,82.8,Sci&Tech,No,52.29,Mkt&Fin,64.49,Placed,591307.0
+411,79.96,Others,45.55,Central,Arts,70.45,Others,Yes,41.04,Mkt&Fin,89.39,Placed,593578.0
+412,79.26,Central,53.93,Central,Science,68.98,Sci&Tech,No,84.0,Mkt&HR,55.64,Placed,575818.0
+413,54.07,Others,90.2,Others,Commerce,84.62,Others,Yes,65.17,Mkt&Fin,66.44,Placed,703525.0
+414,90.37,Others,72.47,Others,Commerce,65.45,Sci&Tech,Yes,94.91,Mkt&Fin,84.93,Placed,714365.0
+415,51.3,Central,52.5,Central,Commerce,65.84,Comm&Mgmt,No,70.99,Mkt&HR,86.02,Placed,539678.0
+416,60.84,Central,55.14,Central,Commerce,62.2,Comm&Mgmt,No,49.13,Mkt&HR,89.22,Not Placed,
+417,56.44,Others,78.0,Central,Commerce,70.75,Comm&Mgmt,Yes,66.09,Mkt&Fin,85.39,Placed,665375.0
+418,84.95,Central,81.24,Central,Commerce,71.79,Sci&Tech,No,51.77,Mkt&HR,52.04,Placed,532879.0
+419,58.92,Central,74.97,Others,Arts,76.42,Sci&Tech,Yes,90.93,Mkt&HR,87.19,Placed,746647.0
+420,90.98,Central,92.66,Others,Commerce,67.22,Comm&Mgmt,No,80.07,Mkt&Fin,67.13,Placed,563535.0
+421,79.53,Central,69.7,Others,Science,58.71,Comm&Mgmt,No,59.79,Mkt&Fin,76.06,Placed,540127.0
+422,51.63,Others,60.01,Others,Science,84.67,Others,No,70.61,Mkt&Fin,65.77,Placed,603703.0
+423,50.24,Central,68.86,Central,Commerce,63.84,Comm&Mgmt,No,78.83,Mkt&Fin,82.55,Placed,571211.0
+424,52.32,Others,62.98,Central,Arts,86.92,Sci&Tech,Yes,85.41,Mkt&Fin,73.04,Placed,780911.0
+425,77.27,Central,56.22,Central,Arts,58.29,Sci&Tech,No,44.65,Mkt&Fin,83.82,Placed,497303.0
+426,86.07,Others,47.3,Central,Arts,72.4,Comm&Mgmt,No,41.31,Mkt&Fin,57.75,Not Placed,
+427,60.73,Central,62.61,Others,Arts,71.46,Comm&Mgmt,No,46.64,Mkt&Fin,57.4,Not Placed,
+428,88.22,Central,80.57,Central,Science,83.15,Others,No,62.91,Mkt&Fin,67.62,Placed,611262.0
+429,52.58,Others,45.92,Central,Arts,55.55,Comm&Mgmt,No,67.07,Mkt&Fin,50.19,Not Placed,
+430,86.04,Central,66.96,Others,Commerce,86.4,Comm&Mgmt,No,47.91,Mkt&Fin,77.71,Placed,585612.0
+431,91.75,Central,77.2,Others,Arts,71.26,Sci&Tech,No,63.85,Mkt&Fin,61.84,Placed,557777.0
+432,84.74,Others,75.52,Central,Arts,73.44,Sci&Tech,No,65.61,Mkt&HR,72.29,Placed,590390.0
+433,81.42,Central,83.83,Central,Commerce,70.41,Others,No,46.33,Mkt&Fin,52.8,Placed,510107.0
+434,87.71,Central,85.53,Others,Science,51.44,Comm&Mgmt,No,93.17,Mkt&Fin,56.83,Placed,585487.0
+435,51.81,Central,80.59,Others,Science,69.88,Comm&Mgmt,No,74.75,Mkt&Fin,74.91,Placed,583178.0
+436,59.08,Others,50.14,Others,Commerce,60.54,Comm&Mgmt,Yes,62.54,Mkt&Fin,62.23,Not Placed,
+437,55.62,Others,68.75,Central,Arts,63.71,Sci&Tech,No,69.4,Mkt&Fin,58.59,Placed,558485.0
+438,72.7,Others,75.17,Central,Commerce,75.96,Comm&Mgmt,Yes,58.22,Mkt&HR,59.15,Placed,646083.0
+439,83.53,Others,57.28,Central,Commerce,69.91,Comm&Mgmt,No,89.55,Mkt&HR,58.59,Not Placed,
+440,78.35,Central,47.13,Others,Commerce,53.73,Sci&Tech,Yes,73.35,Mkt&HR,74.91,Placed,643359.0
+441,88.3,Central,56.18,Others,Arts,52.92,Comm&Mgmt,Yes,68.7,Mkt&HR,56.71,Placed,644201.0
+442,56.98,Central,67.74,Others,Commerce,57.43,Comm&Mgmt,No,92.83,Mkt&HR,64.51,Placed,607180.0
+443,83.06,Central,65.7,Others,Science,57.64,Sci&Tech,No,88.6,Mkt&HR,77.52,Placed,576905.0
+444,58.69,Central,53.83,Others,Arts,74.33,Comm&Mgmt,No,87.14,Mkt&HR,70.55,Placed,610172.0
+445,62.18,Others,86.22,Central,Commerce,57.11,Others,No,53.09,Mkt&HR,73.89,Placed,501388.0
+446,81.95,Others,91.28,Central,Arts,85.27,Sci&Tech,Yes,48.88,Mkt&Fin,60.04,Placed,676743.0
+447,94.11,Others,55.07,Others,Commerce,58.39,Others,No,80.03,Mkt&Fin,87.31,Placed,555092.0
+448,77.52,Others,91.48,Central,Arts,53.65,Comm&Mgmt,No,67.18,Mkt&HR,66.56,Placed,513373.0
+449,52.45,Others,45.89,Central,Commerce,85.03,Others,No,79.66,Mkt&Fin,61.48,Placed,657826.0
+450,77.73,Central,91.25,Central,Commerce,61.81,Sci&Tech,No,84.12,Mkt&Fin,86.17,Placed,573193.0
+451,51.91,Others,92.6,Central,Arts,67.02,Others,Yes,57.13,Mkt&Fin,76.21,Not Placed,
+452,89.79,Others,45.6,Others,Arts,88.36,Comm&Mgmt,No,56.51,Mkt&HR,74.56,Placed,614169.0
+453,81.93,Central,83.15,Others,Arts,87.77,Others,No,68.47,Mkt&Fin,85.47,Placed,633503.0
+454,57.79,Central,93.51,Others,Arts,78.6,Others,Yes,55.87,Mkt&HR,52.34,Placed,666459.0
+455,54.13,Others,90.3,Central,Science,52.76,Sci&Tech,No,78.7,Mkt&HR,83.51,Placed,547179.0
+456,58.26,Central,93.54,Central,Commerce,73.73,Sci&Tech,No,83.31,Mkt&HR,77.11,Placed,634864.0
+457,94.1,Others,72.52,Central,Commerce,89.56,Sci&Tech,Yes,67.38,Mkt&Fin,64.4,Placed,749660.0
+458,70.64,Others,48.91,Central,Science,87.88,Comm&Mgmt,No,81.98,Mkt&HR,60.25,Placed,667082.0
+459,85.28,Central,87.49,Others,Science,54.24,Others,Yes,69.61,Mkt&Fin,54.19,Placed,631107.0
+460,78.64,Central,75.69,Others,Science,65.84,Comm&Mgmt,Yes,81.35,Mkt&Fin,87.64,Placed,661602.0
+461,75.76,Central,75.74,Others,Commerce,62.62,Sci&Tech,No,53.05,Mkt&Fin,55.68,Placed,519570.0
+462,56.53,Central,65.86,Central,Science,55.19,Sci&Tech,Yes,82.85,Mkt&HR,60.38,Placed,672197.0
+463,92.57,Central,73.59,Others,Commerce,77.79,Comm&Mgmt,Yes,81.48,Mkt&HR,77.64,Placed,738574.0
+464,63.56,Others,52.68,Central,Commerce,60.95,Others,No,55.46,Mkt&HR,78.41,Placed,532412.0
+465,76.01,Central,81.99,Central,Commerce,63.79,Sci&Tech,Yes,72.25,Mkt&Fin,56.43,Placed,685195.0
+466,81.49,Central,48.75,Others,Science,53.61,Comm&Mgmt,No,89.61,Mkt&HR,82.57,Placed,565874.0
+467,79.22,Central,81.49,Central,Science,69.92,Comm&Mgmt,No,54.47,Mkt&Fin,70.41,Placed,524185.0
+468,92.33,Others,87.45,Central,Commerce,56.33,Sci&Tech,Yes,82.69,Mkt&HR,83.94,Placed,659210.0
+469,56.68,Central,68.62,Others,Science,67.28,Others,No,95.33,Mkt&Fin,53.49,Placed,608435.0
+470,72.88,Central,70.49,Central,Commerce,55.73,Others,Yes,90.24,Mkt&Fin,51.71,Not Placed,
+471,68.18,Others,60.61,Others,Commerce,88.15,Comm&Mgmt,No,63.29,Mkt&Fin,75.48,Placed,629886.0
+472,71.34,Central,93.47,Central,Commerce,55.8,Others,Yes,75.22,Mkt&Fin,56.0,Placed,639079.0
+473,55.36,Central,81.66,Others,Science,70.88,Others,No,97.52,Mkt&Fin,71.0,Placed,627092.0
+474,56.03,Central,63.45,Central,Arts,57.88,Others,Yes,72.97,Mkt&HR,50.56,Not Placed,
+475,62.51,Central,53.74,Central,Commerce,53.05,Sci&Tech,No,46.67,Mkt&Fin,81.2,Not Placed,
+476,63.71,Central,55.98,Others,Commerce,58.09,Sci&Tech,Yes,42.63,Mkt&Fin,85.98,Placed,575174.0
+477,69.26,Others,68.2,Central,Commerce,52.19,Comm&Mgmt,Yes,85.84,Mkt&Fin,83.56,Placed,640300.0
+478,77.49,Central,92.13,Others,Science,55.58,Sci&Tech,No,64.57,Mkt&HR,88.33,Placed,509139.0
+479,78.56,Central,81.71,Central,Arts,69.74,Sci&Tech,No,54.32,Mkt&HR,86.12,Placed,567782.0
+480,68.53,Central,55.76,Others,Commerce,76.07,Comm&Mgmt,No,60.16,Mkt&Fin,67.76,Placed,582581.0
+481,68.4,Others,87.98,Others,Science,53.49,Comm&Mgmt,Yes,83.93,Mkt&Fin,65.93,Placed,655899.0
+482,59.79,Others,63.91,Central,Arts,67.64,Sci&Tech,Yes,66.98,Mkt&Fin,85.85,Placed,645823.0
+483,76.47,Central,87.59,Central,Arts,73.25,Sci&Tech,No,90.37,Mkt&HR,87.08,Placed,642547.0
+484,64.27,Central,57.08,Others,Science,59.37,Sci&Tech,No,82.63,Mkt&HR,88.91,Placed,575608.0
+485,51.62,Central,75.93,Others,Arts,64.88,Comm&Mgmt,No,96.49,Mkt&HR,80.73,Placed,613360.0
+486,68.83,Central,91.33,Central,Arts,52.87,Others,No,91.53,Mkt&Fin,58.08,Placed,564968.0
+487,71.34,Central,57.89,Central,Arts,58.81,Comm&Mgmt,No,54.76,Mkt&Fin,87.8,Placed,513578.0
+488,60.15,Central,79.65,Others,Commerce,68.67,Sci&Tech,Yes,78.23,Mkt&Fin,87.89,Placed,704453.0
+489,75.76,Others,94.37,Others,Commerce,89.62,Comm&Mgmt,No,41.19,Mkt&HR,76.65,Placed,587246.0
+490,75.46,Central,52.53,Central,Commerce,89.85,Sci&Tech,No,97.48,Mkt&HR,84.29,Placed,688759.0
+491,81.59,Central,49.42,Central,Arts,89.18,Sci&Tech,Yes,55.14,Mkt&Fin,72.45,Placed,711201.0
+492,79.16,Central,78.71,Others,Science,66.92,Sci&Tech,No,78.56,Mkt&Fin,87.77,Placed,604370.0
+493,79.36,Others,61.99,Central,Commerce,53.23,Comm&Mgmt,Yes,89.25,Mkt&HR,53.76,Placed,654502.0
+494,64.23,Others,48.56,Central,Science,62.94,Comm&Mgmt,Yes,49.31,Mkt&Fin,84.56,Placed,632463.0
+495,85.43,Central,68.77,Others,Commerce,59.51,Comm&Mgmt,No,89.18,Mkt&HR,52.22,Not Placed,
+496,74.71,Central,82.69,Central,Arts,50.57,Comm&Mgmt,Yes,40.71,Mkt&HR,63.56,Not Placed,
+497,69.41,Others,59.26,Others,Science,53.81,Comm&Mgmt,No,65.63,Mkt&Fin,55.41,Placed,541037.0
+498,78.17,Others,61.75,Central,Arts,68.13,Others,Yes,67.38,Mkt&Fin,69.17,Placed,673458.0
+499,66.23,Central,87.28,Others,Commerce,63.59,Others,Yes,61.7,Mkt&Fin,59.29,Placed,633466.0
+500,73.07,Others,71.0,Central,Science,57.21,Sci&Tech,Yes,74.01,Mkt&Fin,88.08,Placed,630381.0
+501,83.15,Others,87.14,Others,Commerce,78.64,Others,Yes,93.06,Mkt&Fin,72.37,Placed,767829.0
+502,89.89,Central,67.32,Central,Arts,64.28,Sci&Tech,No,58.97,Mkt&Fin,85.91,Placed,551945.0
+503,91.45,Others,92.65,Central,Science,84.07,Sci&Tech,Yes,73.6,Mkt&Fin,61.12,Placed,701634.0
+504,72.66,Central,77.54,Others,Science,59.64,Comm&Mgmt,No,90.89,Mkt&Fin,51.04,Placed,592486.0
+505,73.41,Central,50.79,Others,Science,71.54,Sci&Tech,No,84.83,Mkt&HR,81.03,Placed,590010.0
+506,85.99,Central,89.25,Others,Commerce,57.37,Comm&Mgmt,No,42.36,Mkt&Fin,78.1,Placed,471535.0
+507,64.15,Central,69.46,Central,Arts,69.81,Sci&Tech,Yes,94.68,Mkt&HR,71.82,Placed,727190.0
+508,87.68,Others,52.08,Central,Science,56.1,Comm&Mgmt,No,42.71,Mkt&Fin,82.61,Placed,466176.0
+509,72.24,Central,52.63,Others,Arts,56.46,Others,No,74.15,Mkt&Fin,83.6,Placed,543304.0
+510,55.21,Central,79.38,Others,Commerce,74.49,Others,No,73.37,Mkt&Fin,73.52,Placed,591687.0
+511,53.24,Central,47.37,Central,Commerce,60.55,Sci&Tech,Yes,85.61,Mkt&Fin,88.64,Not Placed,
+512,87.89,Others,59.33,Others,Arts,56.89,Comm&Mgmt,No,48.61,Mkt&HR,78.79,Placed,507926.0
+513,52.5,Others,51.99,Others,Commerce,87.19,Comm&Mgmt,No,50.4,Mkt&HR,77.08,Placed,570129.0
+514,62.63,Others,67.05,Others,Commerce,51.72,Comm&Mgmt,Yes,83.62,Mkt&HR,64.46,Not Placed,
+515,65.04,Central,65.72,Others,Arts,72.61,Comm&Mgmt,Yes,48.67,Mkt&HR,50.09,Placed,626288.0
+516,57.78,Others,71.09,Others,Commerce,71.93,Others,No,67.23,Mkt&Fin,59.64,Not Placed,
+517,64.13,Others,58.98,Others,Commerce,60.02,Comm&Mgmt,Yes,82.44,Mkt&Fin,80.56,Placed,667261.0
+518,83.42,Others,46.6,Others,Science,68.11,Sci&Tech,Yes,77.77,Mkt&Fin,78.39,Placed,674984.0
+519,50.66,Central,75.72,Others,Commerce,53.51,Others,Yes,52.22,Mkt&HR,63.24,Placed,574196.0
+520,87.22,Others,63.69,Others,Commerce,78.85,Others,No,57.63,Mkt&HR,75.02,Placed,572951.0
+521,88.54,Central,77.57,Central,Commerce,58.87,Sci&Tech,No,96.2,Mkt&Fin,57.81,Placed,612452.0
+522,66.75,Central,50.43,Others,Commerce,57.74,Comm&Mgmt,Yes,66.02,Mkt&Fin,60.55,Not Placed,
+523,56.91,Central,45.69,Others,Commerce,62.6,Others,No,42.58,Mkt&HR,87.9,Not Placed,
+524,77.04,Central,57.41,Others,Arts,86.09,Comm&Mgmt,No,52.74,Mkt&Fin,66.53,Placed,571226.0
+525,55.39,Central,67.83,Others,Commerce,81.86,Comm&Mgmt,Yes,59.86,Mkt&Fin,59.8,Placed,669091.0
+526,66.42,Central,64.7,Central,Commerce,87.88,Others,No,97.97,Mkt&Fin,69.48,Placed,676344.0
+527,93.13,Central,85.52,Others,Commerce,76.08,Others,Yes,57.56,Mkt&HR,65.48,Placed,682081.0
+528,94.8,Others,63.89,Central,Science,76.52,Comm&Mgmt,Yes,41.53,Mkt&HR,79.18,Placed,656899.0
+529,84.74,Central,71.52,Central,Arts,69.2,Sci&Tech,No,69.75,Mkt&Fin,88.48,Placed,552187.0
+530,63.99,Others,74.68,Central,Science,86.21,Comm&Mgmt,No,44.85,Mkt&Fin,73.67,Placed,572156.0
+531,80.94,Others,46.09,Others,Commerce,70.44,Others,Yes,55.9,Mkt&HR,73.65,Placed,642945.0
+532,81.74,Others,70.76,Others,Commerce,64.2,Sci&Tech,No,97.56,Mkt&HR,64.59,Placed,624927.0
+533,67.45,Others,62.24,Others,Science,75.62,Comm&Mgmt,No,80.87,Mkt&Fin,72.59,Placed,598875.0
+534,78.84,Central,66.06,Central,Commerce,71.85,Comm&Mgmt,Yes,42.94,Mkt&HR,62.77,Placed,625667.0
+535,50.48,Others,50.01,Central,Arts,54.96,Sci&Tech,No,66.02,Mkt&HR,50.04,Not Placed,
+536,59.41,Others,84.14,Others,Arts,65.71,Comm&Mgmt,No,49.95,Mkt&Fin,84.64,Not Placed,
+537,73.63,Central,92.12,Central,Science,62.53,Others,Yes,47.13,Mkt&HR,67.18,Placed,620913.0
+538,57.37,Central,46.11,Others,Arts,83.87,Sci&Tech,No,74.05,Mkt&Fin,69.68,Placed,630806.0
+539,57.47,Others,75.07,Others,Commerce,65.15,Comm&Mgmt,No,69.33,Mkt&Fin,53.34,Placed,563980.0
+540,87.63,Central,83.19,Others,Commerce,82.86,Others,Yes,83.09,Mkt&HR,83.48,Placed,727728.0
+541,94.51,Central,59.24,Central,Arts,67.7,Sci&Tech,No,91.75,Mkt&HR,56.81,Placed,636224.0
+542,75.02,Others,84.38,Central,Arts,80.14,Comm&Mgmt,No,54.31,Mkt&Fin,66.42,Placed,561530.0
+543,87.76,Others,76.62,Central,Commerce,55.41,Sci&Tech,No,93.53,Mkt&Fin,83.61,Placed,599839.0
+544,94.56,Central,91.46,Others,Science,86.99,Comm&Mgmt,No,70.04,Mkt&Fin,68.31,Placed,650516.0
+545,56.37,Others,94.05,Central,Commerce,69.22,Comm&Mgmt,No,55.01,Mkt&HR,87.25,Placed,543249.0
+546,70.17,Central,47.12,Others,Science,60.39,Sci&Tech,Yes,89.06,Mkt&HR,58.37,Placed,702739.0
+547,67.67,Others,67.25,Central,Arts,59.66,Sci&Tech,No,42.06,Mkt&Fin,78.61,Not Placed,
+548,53.6,Others,72.35,Central,Arts,60.6,Comm&Mgmt,No,72.45,Mkt&HR,89.12,Placed,563587.0
+549,83.99,Central,52.34,Central,Science,64.67,Others,No,81.85,Mkt&Fin,71.98,Placed,561135.0
+550,69.52,Central,61.81,Others,Arts,78.7,Sci&Tech,No,56.24,Mkt&Fin,77.69,Placed,555437.0
+551,71.12,Others,94.38,Others,Science,87.98,Others,Yes,90.08,Mkt&HR,65.73,Placed,747580.0
+552,56.78,Central,45.81,Central,Arts,76.76,Sci&Tech,Yes,53.94,Mkt&Fin,80.05,Placed,639671.0
+553,58.14,Central,67.63,Others,Commerce,71.89,Comm&Mgmt,No,88.71,Mkt&HR,86.35,Placed,634888.0
+554,90.82,Central,87.13,Others,Science,67.94,Comm&Mgmt,Yes,44.56,Mkt&HR,78.12,Placed,601710.0
+555,52.01,Others,61.2,Others,Science,83.13,Comm&Mgmt,No,49.28,Mkt&HR,87.44,Not Placed,
+556,60.48,Central,68.99,Others,Science,83.99,Sci&Tech,No,62.1,Mkt&Fin,73.55,Placed,623055.0
+557,63.14,Others,93.9,Central,Commerce,61.72,Others,Yes,89.54,Mkt&Fin,73.09,Placed,678177.0
+558,72.06,Others,68.74,Central,Commerce,88.14,Sci&Tech,Yes,48.39,Mkt&Fin,62.19,Placed,702014.0
+559,76.39,Central,51.55,Others,Arts,65.8,Others,No,90.78,Mkt&HR,78.39,Placed,626986.0
+560,72.2,Others,47.59,Central,Commerce,82.0,Comm&Mgmt,Yes,53.32,Mkt&Fin,85.28,Placed,678793.0
+561,53.79,Others,92.27,Central,Science,88.67,Comm&Mgmt,No,66.25,Mkt&HR,75.85,Placed,644846.0
+562,60.97,Central,58.29,Central,Science,78.15,Sci&Tech,No,60.46,Mkt&Fin,59.32,Placed,603809.0
+563,87.96,Others,70.2,Others,Science,56.46,Comm&Mgmt,Yes,46.85,Mkt&HR,71.76,Placed,570294.0
+564,78.69,Central,49.54,Central,Commerce,73.45,Others,Yes,94.77,Mkt&HR,80.24,Placed,717219.0
+565,79.21,Central,66.18,Central,Commerce,54.75,Others,No,65.41,Mkt&Fin,87.57,Placed,513566.0
+566,80.16,Central,91.51,Others,Commerce,81.57,Others,Yes,80.04,Mkt&HR,56.26,Placed,732746.0
+567,84.33,Others,70.12,Central,Commerce,61.25,Sci&Tech,No,73.37,Mkt&Fin,55.1,Placed,569791.0
+568,52.61,Others,93.56,Central,Commerce,77.81,Comm&Mgmt,Yes,69.1,Mkt&HR,66.52,Placed,680791.0
+569,66.5,Central,57.94,Central,Commerce,86.4,Comm&Mgmt,Yes,75.76,Mkt&HR,55.02,Placed,720390.0
+570,74.28,Others,70.23,Central,Commerce,57.24,Others,No,92.1,Mkt&Fin,89.22,Placed,571241.0
+571,65.23,Others,87.98,Others,Arts,65.71,Others,Yes,80.56,Mkt&HR,66.97,Placed,671818.0
+572,88.0,Others,67.41,Others,Science,75.88,Others,Yes,70.88,Mkt&Fin,71.34,Placed,716406.0
+573,71.72,Others,58.97,Central,Commerce,66.79,Sci&Tech,No,77.42,Mkt&HR,59.08,Placed,575009.0
+574,84.59,Central,87.77,Others,Science,56.99,Sci&Tech,No,75.17,Mkt&Fin,67.97,Placed,564723.0
+575,88.34,Others,64.49,Others,Commerce,51.16,Others,Yes,65.12,Mkt&Fin,89.39,Placed,586514.0
+576,72.72,Central,71.54,Others,Science,66.26,Others,Yes,76.24,Mkt&HR,69.55,Placed,656349.0
+577,90.93,Central,93.83,Others,Commerce,75.97,Comm&Mgmt,No,65.73,Mkt&HR,50.35,Placed,599550.0
+578,76.42,Central,54.32,Others,Commerce,72.96,Sci&Tech,No,83.94,Mkt&Fin,59.7,Placed,599236.0
+579,88.26,Others,60.07,Central,Commerce,56.25,Sci&Tech,No,96.2,Mkt&Fin,89.14,Placed,565281.0
+580,65.33,Others,46.55,Central,Science,68.03,Others,No,95.67,Mkt&HR,89.56,Placed,625155.0
+581,72.45,Central,64.59,Others,Science,64.78,Comm&Mgmt,No,87.6,Mkt&HR,58.42,Placed,576904.0
+582,73.91,Central,55.01,Others,Science,60.97,Comm&Mgmt,No,74.9,Mkt&HR,74.61,Placed,535777.0
+583,54.72,Central,79.0,Others,Science,79.17,Others,Yes,83.46,Mkt&HR,53.08,Placed,724735.0
+584,67.93,Others,54.07,Central,Arts,62.39,Sci&Tech,No,50.33,Mkt&HR,73.1,Placed,515334.0
+585,91.28,Central,78.74,Central,Arts,71.61,Others,No,67.78,Mkt&HR,55.04,Not Placed,
+586,78.39,Others,58.17,Others,Science,86.93,Sci&Tech,No,54.92,Mkt&Fin,82.75,Placed,599854.0
+587,57.99,Central,62.76,Central,Science,71.57,Others,No,40.2,Mkt&Fin,87.58,Placed,496290.0
+588,65.25,Central,62.44,Others,Science,74.68,Others,Yes,96.07,Mkt&HR,56.92,Placed,730728.0
+589,58.62,Others,80.84,Others,Commerce,52.93,Comm&Mgmt,No,90.1,Mkt&Fin,68.51,Placed,556163.0
+590,51.12,Central,68.33,Others,Science,57.13,Sci&Tech,No,69.79,Mkt&Fin,54.08,Not Placed,
+591,91.74,Central,63.06,Central,Commerce,54.04,Sci&Tech,No,54.74,Mkt&Fin,63.57,Not Placed,
+592,70.17,Central,87.63,Others,Arts,80.59,Sci&Tech,No,80.19,Mkt&Fin,52.6,Placed,613603.0
+593,63.84,Others,73.6,Others,Science,83.44,Others,No,65.22,Mkt&Fin,60.58,Placed,612359.0
+594,76.93,Central,55.69,Others,Arts,57.46,Sci&Tech,Yes,86.59,Mkt&Fin,89.61,Placed,692343.0
+595,50.33,Central,90.0,Others,Arts,58.77,Comm&Mgmt,No,97.97,Mkt&HR,51.78,Not Placed,
+596,62.51,Central,62.13,Central,Science,62.93,Comm&Mgmt,No,60.25,Mkt&HR,84.36,Placed,528733.0
+597,81.64,Others,46.95,Others,Arts,73.64,Others,No,54.18,Mkt&Fin,53.1,Placed,551015.0
+598,78.52,Others,69.73,Others,Science,74.87,Others,No,55.51,Mkt&Fin,71.16,Placed,564893.0
+599,94.18,Others,51.2,Others,Commerce,77.47,Comm&Mgmt,No,45.41,Mkt&HR,68.08,Placed,559428.0
+600,77.92,Central,56.92,Others,Commerce,86.21,Others,No,62.85,Mkt&Fin,87.26,Placed,599407.0
+601,71.49,Others,82.36,Central,Commerce,61.8,Comm&Mgmt,No,41.01,Mkt&HR,57.96,Not Placed,
+602,84.26,Central,51.54,Others,Arts,76.35,Comm&Mgmt,Yes,46.63,Mkt&HR,57.19,Placed,657442.0
+603,90.65,Others,85.35,Central,Science,72.39,Sci&Tech,No,55.76,Mkt&Fin,79.95,Placed,561767.0
+604,82.43,Others,91.85,Central,Commerce,62.23,Sci&Tech,No,49.27,Mkt&Fin,79.03,Not Placed,
+605,93.34,Others,75.33,Others,Science,86.3,Comm&Mgmt,No,82.47,Mkt&HR,77.97,Placed,655167.0
+606,85.19,Others,80.52,Central,Commerce,53.82,Sci&Tech,No,46.13,Mkt&Fin,51.05,Not Placed,
+607,89.01,Others,80.68,Central,Arts,78.48,Sci&Tech,Yes,90.23,Mkt&Fin,60.4,Placed,748054.0
+608,55.13,Central,94.64,Others,Arts,79.11,Comm&Mgmt,No,52.82,Mkt&HR,83.6,Placed,580184.0
+609,82.96,Others,62.08,Others,Commerce,86.61,Comm&Mgmt,No,46.3,Mkt&HR,74.03,Placed,553205.0
+610,69.8,Others,53.14,Central,Arts,70.74,Others,No,40.59,Mkt&Fin,74.09,Placed,529732.0
+611,74.89,Others,70.96,Central,Science,62.86,Others,Yes,81.48,Mkt&Fin,61.84,Placed,657562.0
+612,79.43,Others,71.66,Central,Commerce,83.11,Others,No,54.88,Mkt&HR,60.41,Placed,572340.0
+613,93.64,Central,53.9,Others,Arts,80.83,Sci&Tech,Yes,69.55,Mkt&HR,87.86,Placed,716832.0
+614,94.31,Others,75.66,Central,Commerce,70.01,Comm&Mgmt,No,46.47,Mkt&HR,79.11,Placed,520722.0
+615,62.97,Central,45.71,Others,Commerce,80.71,Others,No,97.15,Mkt&Fin,55.07,Placed,685280.0
+616,83.02,Others,91.38,Others,Commerce,60.72,Comm&Mgmt,Yes,47.27,Mkt&Fin,87.51,Placed,624563.0
+617,83.75,Others,58.23,Others,Science,73.58,Comm&Mgmt,No,63.89,Mkt&Fin,73.29,Placed,597865.0
+618,65.59,Central,46.98,Central,Science,84.61,Comm&Mgmt,No,89.4,Mkt&HR,63.33,Placed,637846.0
+619,55.57,Others,50.41,Others,Commerce,62.72,Comm&Mgmt,No,54.2,Mkt&HR,65.89,Not Placed,
+620,51.84,Others,57.01,Central,Commerce,69.34,Comm&Mgmt,Yes,55.48,Mkt&HR,79.02,Placed,628137.0
+621,84.98,Others,58.7,Central,Commerce,88.04,Sci&Tech,No,86.89,Mkt&HR,65.05,Placed,667167.0
+622,72.04,Central,46.64,Central,Arts,81.93,Comm&Mgmt,Yes,55.85,Mkt&HR,73.15,Placed,678991.0
+623,94.35,Central,58.97,Central,Arts,85.48,Sci&Tech,No,40.17,Mkt&Fin,78.42,Placed,574072.0
+624,70.92,Others,54.65,Others,Arts,65.41,Others,No,64.82,Mkt&HR,57.81,Not Placed,
+625,94.01,Others,63.93,Central,Science,89.86,Others,Yes,40.73,Mkt&HR,87.77,Placed,661027.0
+626,68.52,Others,64.26,Others,Science,56.1,Comm&Mgmt,No,92.77,Mkt&HR,64.25,Placed,586290.0
+627,85.72,Others,61.95,Central,Arts,70.75,Comm&Mgmt,No,77.23,Mkt&Fin,66.77,Placed,597573.0
+628,53.82,Central,61.4,Central,Science,69.17,Others,No,73.81,Mkt&Fin,77.94,Placed,589660.0
+629,75.0,Others,49.49,Central,Science,81.94,Comm&Mgmt,Yes,51.69,Mkt&HR,74.35,Placed,664803.0
+630,86.09,Central,46.26,Central,Commerce,86.34,Comm&Mgmt,Yes,80.6,Mkt&HR,67.6,Placed,746539.0
+631,91.61,Others,55.11,Central,Science,79.25,Sci&Tech,No,79.28,Mkt&Fin,75.99,Placed,642727.0
+632,87.02,Others,82.83,Others,Commerce,75.07,Sci&Tech,Yes,43.51,Mkt&HR,86.11,Placed,642788.0
+633,51.66,Others,94.54,Others,Commerce,67.1,Sci&Tech,No,91.09,Mkt&Fin,82.01,Placed,630103.0
+634,66.77,Others,91.43,Central,Arts,70.41,Sci&Tech,Yes,73.61,Mkt&Fin,82.97,Placed,680121.0
+635,52.19,Central,70.21,Others,Arts,70.37,Others,Yes,85.96,Mkt&HR,60.34,Placed,685272.0
+636,54.92,Central,71.59,Others,Commerce,50.81,Comm&Mgmt,No,55.25,Mkt&Fin,66.78,Not Placed,
+637,80.39,Central,60.73,Central,Commerce,70.12,Others,Yes,47.08,Mkt&HR,72.15,Placed,627542.0
+638,82.1,Others,83.7,Central,Commerce,84.24,Comm&Mgmt,No,80.74,Mkt&HR,51.77,Placed,616303.0
+639,84.82,Central,83.24,Central,Arts,78.37,Others,Yes,86.05,Mkt&Fin,80.79,Placed,714146.0
+640,88.95,Others,87.21,Others,Commerce,81.83,Comm&Mgmt,No,62.39,Mkt&HR,62.94,Placed,585914.0
+641,83.27,Central,89.78,Others,Commerce,65.62,Comm&Mgmt,No,41.37,Mkt&HR,61.3,Placed,489149.0
+642,86.04,Central,66.72,Central,Commerce,71.16,Others,No,87.46,Mkt&HR,60.37,Placed,622621.0
+643,52.2,Central,83.34,Others,Arts,51.34,Comm&Mgmt,No,51.95,Mkt&Fin,61.34,Not Placed,
+644,60.55,Central,85.32,Others,Science,65.32,Sci&Tech,No,59.66,Mkt&HR,63.52,Placed,531761.0
+645,77.99,Central,60.42,Others,Arts,68.98,Comm&Mgmt,No,76.44,Mkt&HR,74.19,Placed,564052.0
+646,88.62,Central,91.46,Central,Arts,60.21,Comm&Mgmt,Yes,45.8,Mkt&HR,73.34,Placed,576156.0
+647,50.2,Others,49.72,Others,Commerce,51.25,Comm&Mgmt,No,44.18,Mkt&Fin,60.23,Not Placed,
+648,73.16,Others,94.71,Others,Arts,77.62,Others,Yes,41.49,Mkt&Fin,58.26,Placed,633090.0
+649,80.48,Others,83.5,Others,Science,67.4,Others,No,93.17,Mkt&Fin,83.05,Placed,593904.0
+650,51.33,Central,49.66,Others,Science,66.63,Comm&Mgmt,Yes,58.06,Mkt&Fin,53.71,Not Placed,
+651,68.06,Others,77.81,Others,Commerce,60.0,Sci&Tech,No,78.32,Mkt&Fin,70.51,Placed,580138.0
+652,90.3,Others,46.71,Others,Arts,71.51,Comm&Mgmt,No,97.38,Mkt&HR,70.82,Placed,615389.0
+653,80.22,Others,83.51,Central,Arts,67.52,Others,No,78.83,Mkt&HR,72.97,Placed,607466.0
+654,60.69,Central,84.96,Central,Science,68.96,Sci&Tech,No,70.46,Mkt&Fin,85.43,Placed,584030.0
+655,88.38,Others,75.12,Central,Commerce,73.23,Others,Yes,70.21,Mkt&HR,74.96,Placed,672711.0
+656,65.66,Others,87.84,Central,Arts,50.25,Comm&Mgmt,Yes,61.86,Mkt&HR,88.95,Placed,613242.0
+657,88.4,Central,49.89,Others,Arts,86.31,Others,No,74.79,Mkt&HR,84.85,Placed,629507.0
+658,63.45,Central,58.8,Others,Science,52.84,Others,No,95.61,Mkt&HR,58.59,Placed,581505.0
+659,76.56,Others,65.71,Others,Science,68.04,Others,Yes,85.71,Mkt&Fin,59.65,Placed,681885.0
+660,67.86,Central,47.12,Others,Commerce,58.29,Others,No,64.61,Mkt&HR,63.79,Not Placed,
+661,62.37,Central,67.41,Central,Commerce,70.95,Sci&Tech,No,59.28,Mkt&Fin,65.66,Placed,570081.0
+662,89.9,Others,58.26,Central,Arts,61.21,Comm&Mgmt,Yes,91.24,Mkt&HR,72.12,Placed,706374.0
+663,58.44,Central,64.64,Others,Science,84.4,Sci&Tech,No,47.88,Mkt&HR,59.3,Placed,549506.0
+664,53.82,Central,66.26,Central,Commerce,65.85,Sci&Tech,Yes,89.28,Mkt&Fin,58.89,Placed,686831.0
+665,65.39,Central,88.97,Others,Arts,75.55,Sci&Tech,Yes,54.79,Mkt&HR,65.26,Placed,666606.0
+666,82.29,Others,58.52,Central,Commerce,59.96,Others,No,81.51,Mkt&HR,76.88,Placed,588191.0
+667,86.33,Central,89.69,Central,Commerce,50.78,Comm&Mgmt,Yes,86.76,Mkt&HR,77.53,Placed,659574.0
+668,94.94,Others,66.3,Others,Commerce,66.17,Others,No,67.67,Mkt&Fin,89.04,Placed,569182.0
+669,63.34,Central,61.39,Others,Science,71.46,Sci&Tech,No,51.15,Mkt&Fin,58.1,Placed,536111.0
+670,68.36,Others,70.13,Others,Science,68.38,Sci&Tech,No,89.0,Mkt&HR,65.71,Placed,585875.0
+671,56.16,Others,65.89,Central,Commerce,88.48,Others,No,61.32,Mkt&Fin,88.59,Placed,626375.0
+672,75.87,Others,57.87,Others,Science,78.27,Others,No,58.6,Mkt&Fin,77.6,Placed,591974.0
+673,94.89,Others,70.13,Others,Science,89.83,Others,No,69.58,Mkt&HR,73.69,Placed,630814.0
+674,81.54,Central,52.59,Others,Science,61.8,Sci&Tech,No,65.24,Mkt&Fin,71.59,Placed,541200.0
+675,76.78,Others,62.6,Central,Science,81.56,Comm&Mgmt,No,79.62,Mkt&Fin,53.02,Placed,615672.0
+676,67.66,Others,73.29,Central,Arts,72.22,Sci&Tech,No,47.96,Mkt&HR,85.73,Placed,535212.0
+677,91.19,Others,65.67,Others,Arts,74.47,Others,Yes,65.27,Mkt&HR,75.02,Placed,666046.0
+678,72.36,Others,86.2,Central,Commerce,89.43,Sci&Tech,No,91.72,Mkt&HR,72.87,Placed,672755.0
+679,56.05,Others,57.84,Others,Arts,76.16,Others,No,42.09,Mkt&Fin,71.58,Placed,519362.0
+680,66.44,Central,93.49,Central,Science,85.95,Sci&Tech,No,66.53,Mkt&Fin,65.68,Placed,621241.0
+681,53.02,Central,84.24,Central,Commerce,79.03,Sci&Tech,No,78.31,Mkt&HR,60.19,Placed,606086.0
+682,59.09,Central,93.38,Others,Science,55.1,Others,No,91.49,Mkt&Fin,80.21,Placed,584508.0
+683,50.8,Central,86.91,Central,Arts,77.98,Comm&Mgmt,Yes,74.44,Mkt&HR,70.38,Placed,708707.0
+684,70.4,Others,52.11,Central,Arts,69.37,Comm&Mgmt,No,87.82,Mkt&HR,51.36,Placed,628548.0
+685,78.55,Others,71.32,Others,Science,86.75,Comm&Mgmt,No,52.92,Mkt&Fin,65.96,Placed,577148.0
+686,65.45,Central,53.5,Central,Commerce,82.27,Sci&Tech,Yes,60.46,Mkt&Fin,87.14,Placed,681377.0
+687,68.92,Central,85.91,Others,Commerce,54.17,Others,Yes,94.64,Mkt&HR,64.96,Placed,663942.0
+688,93.16,Others,74.21,Central,Commerce,55.36,Comm&Mgmt,Yes,91.39,Mkt&HR,66.53,Placed,680398.0
+689,83.84,Others,58.17,Others,Arts,52.78,Sci&Tech,No,72.36,Mkt&HR,74.96,Placed,508402.0
+690,74.34,Others,91.48,Central,Science,69.73,Comm&Mgmt,No,67.58,Mkt&HR,82.07,Placed,578667.0
+691,62.8,Others,50.76,Central,Science,53.23,Sci&Tech,No,66.16,Mkt&Fin,76.74,Placed,532962.0
+692,90.36,Others,73.19,Others,Arts,78.95,Sci&Tech,Yes,43.41,Mkt&Fin,84.0,Placed,657409.0
+693,60.58,Others,81.05,Others,Arts,72.09,Comm&Mgmt,No,91.76,Mkt&HR,54.56,Placed,606523.0
+694,64.64,Central,47.94,Central,Arts,83.44,Sci&Tech,No,87.45,Mkt&HR,86.98,Placed,649870.0
+695,90.91,Others,74.89,Others,Commerce,61.19,Sci&Tech,No,66.46,Mkt&Fin,86.16,Placed,543163.0
+696,73.83,Central,85.8,Central,Science,70.77,Comm&Mgmt,Yes,56.21,Mkt&HR,70.77,Placed,644281.0
+697,83.4,Central,48.38,Central,Arts,54.7,Comm&Mgmt,Yes,59.89,Mkt&Fin,74.99,Placed,607196.0
+698,76.58,Central,70.61,Others,Arts,85.38,Sci&Tech,No,47.14,Mkt&HR,58.51,Placed,588538.0
+699,79.4,Central,57.93,Others,Commerce,57.0,Others,No,81.86,Mkt&HR,67.92,Placed,576450.0
+700,63.47,Central,78.15,Central,Science,54.09,Others,Yes,72.29,Mkt&HR,58.11,Placed,621850.0
+701,60.86,Others,50.93,Others,Arts,58.2,Sci&Tech,No,53.58,Mkt&HR,50.88,Not Placed,
+702,64.51,Others,91.85,Central,Commerce,82.25,Sci&Tech,Yes,76.13,Mkt&HR,89.24,Placed,709412.0
+703,56.99,Central,89.74,Central,Science,54.23,Comm&Mgmt,Yes,96.8,Mkt&Fin,60.37,Placed,676378.0
+704,89.34,Others,54.3,Central,Commerce,74.58,Others,No,47.1,Mkt&HR,73.72,Placed,545231.0
+705,62.75,Central,61.16,Central,Arts,79.85,Sci&Tech,No,66.59,Mkt&Fin,62.01,Placed,608407.0
+706,75.27,Central,74.38,Others,Commerce,80.04,Others,No,68.66,Mkt&Fin,64.82,Placed,590820.0
+707,85.64,Others,80.9,Central,Commerce,57.6,Sci&Tech,No,49.67,Mkt&Fin,65.91,Placed,482957.0
+708,85.27,Central,67.13,Central,Commerce,52.46,Sci&Tech,No,70.83,Mkt&Fin,63.4,Placed,500701.0
+709,69.73,Others,52.81,Others,Commerce,67.95,Others,Yes,75.15,Mkt&HR,75.5,Placed,658844.0
+710,71.43,Others,50.21,Others,Science,58.1,Sci&Tech,No,49.13,Mkt&HR,88.44,Placed,475138.0
+711,94.76,Central,94.99,Central,Commerce,77.97,Sci&Tech,No,48.97,Mkt&Fin,67.15,Placed,542218.0
+712,80.36,Central,67.77,Others,Science,64.27,Others,No,89.67,Mkt&HR,88.93,Placed,606900.0
+713,86.66,Others,88.63,Central,Science,67.97,Comm&Mgmt,No,58.06,Mkt&Fin,76.71,Placed,558740.0
+714,90.61,Others,69.12,Others,Science,54.54,Comm&Mgmt,No,76.56,Mkt&Fin,74.29,Placed,565397.0
+715,85.44,Others,91.12,Others,Arts,72.7,Others,Yes,76.35,Mkt&HR,59.48,Placed,698054.0
+716,58.33,Central,49.39,Central,Science,57.42,Comm&Mgmt,Yes,88.67,Mkt&HR,52.52,Placed,672334.0
+717,75.3,Central,50.7,Central,Science,77.16,Comm&Mgmt,No,82.91,Mkt&HR,84.08,Placed,642269.0
+718,54.59,Others,91.48,Others,Arts,52.85,Sci&Tech,No,88.75,Mkt&HR,72.96,Placed,543403.0
+719,79.38,Others,92.37,Central,Commerce,89.04,Comm&Mgmt,Yes,76.26,Mkt&HR,66.58,Placed,751152.0
+720,92.99,Central,60.74,Central,Arts,77.38,Sci&Tech,Yes,66.07,Mkt&Fin,82.48,Placed,705184.0
+721,73.07,Others,62.76,Others,Arts,57.27,Others,No,62.83,Mkt&Fin,62.42,Placed,522597.0
+722,69.48,Others,67.62,Central,Commerce,50.56,Comm&Mgmt,Yes,61.98,Mkt&HR,81.34,Placed,588711.0
+723,51.61,Central,65.81,Others,Commerce,63.38,Sci&Tech,Yes,64.27,Mkt&Fin,63.12,Placed,649722.0
+724,93.19,Central,54.5,Others,Science,56.11,Others,No,47.5,Mkt&Fin,86.84,Placed,513111.0
+725,54.64,Others,89.92,Central,Commerce,58.74,Sci&Tech,No,64.59,Mkt&Fin,60.72,Placed,517197.0
+726,51.85,Others,57.67,Central,Science,84.91,Sci&Tech,No,62.59,Mkt&Fin,55.5,Placed,608073.0
+727,61.07,Central,80.26,Others,Arts,74.13,Others,No,42.01,Mkt&HR,77.92,Placed,508948.0
+728,52.95,Central,48.36,Central,Science,57.06,Others,Yes,55.96,Mkt&Fin,56.51,Not Placed,
+729,70.48,Others,46.94,Central,Commerce,72.27,Others,No,83.61,Mkt&HR,87.97,Placed,622383.0
+730,73.22,Central,77.69,Central,Commerce,60.23,Comm&Mgmt,Yes,73.52,Mkt&HR,76.22,Placed,652530.0
+731,64.07,Others,61.95,Others,Arts,89.05,Others,Yes,86.76,Mkt&HR,59.23,Placed,750631.0
+732,52.29,Others,77.77,Central,Commerce,51.31,Sci&Tech,No,71.48,Mkt&HR,58.35,Placed,513659.0
+733,55.02,Others,49.7,Others,Science,79.29,Comm&Mgmt,No,89.54,Mkt&Fin,86.96,Placed,622997.0
+734,67.3,Central,92.49,Central,Arts,80.92,Sci&Tech,No,86.17,Mkt&HR,74.31,Placed,654073.0
+735,52.72,Central,82.43,Others,Commerce,52.69,Comm&Mgmt,Yes,45.7,Mkt&Fin,85.75,Placed,596613.0
+736,81.42,Central,88.81,Others,Science,56.87,Sci&Tech,No,96.67,Mkt&Fin,54.41,Placed,569240.0
+737,59.32,Others,51.82,Central,Science,65.37,Sci&Tech,No,40.86,Mkt&HR,87.02,Not Placed,
+738,63.59,Central,61.01,Others,Commerce,84.73,Comm&Mgmt,No,74.62,Mkt&Fin,70.8,Placed,646280.0
+739,67.74,Central,63.42,Central,Science,71.48,Others,No,85.97,Mkt&Fin,76.74,Placed,630313.0
+740,68.75,Central,71.86,Central,Science,76.21,Comm&Mgmt,No,59.25,Mkt&Fin,64.92,Not Placed,
+741,50.07,Central,59.84,Others,Commerce,81.32,Comm&Mgmt,No,74.72,Mkt&HR,52.37,Placed,629151.0
+742,55.04,Central,48.03,Others,Arts,83.12,Comm&Mgmt,No,61.0,Mkt&HR,88.32,Placed,614428.0
+743,88.82,Others,63.44,Others,Science,69.05,Comm&Mgmt,No,43.52,Mkt&HR,89.78,Placed,512863.0
+744,50.06,Others,57.73,Central,Commerce,70.35,Sci&Tech,No,40.49,Mkt&Fin,64.58,Placed,536778.0
+745,72.87,Central,64.3,Central,Arts,78.72,Comm&Mgmt,No,45.5,Mkt&Fin,87.75,Placed,571490.0
+746,72.03,Central,54.85,Central,Arts,60.53,Others,Yes,45.71,Mkt&Fin,56.71,Not Placed,
+747,64.99,Central,58.09,Central,Commerce,84.18,Sci&Tech,Yes,75.43,Mkt&HR,56.19,Placed,707050.0
+748,69.41,Others,76.35,Central,Commerce,50.83,Comm&Mgmt,No,70.5,Mkt&Fin,52.92,Not Placed,
+749,85.13,Central,64.41,Others,Science,57.83,Others,No,66.42,Mkt&HR,65.65,Not Placed,
+750,87.85,Others,62.27,Central,Science,82.01,Comm&Mgmt,No,80.13,Mkt&Fin,52.09,Placed,648786.0
+751,61.72,Central,71.7,Others,Arts,63.61,Sci&Tech,Yes,40.98,Mkt&Fin,65.79,Placed,579912.0
+752,64.51,Central,83.59,Central,Science,55.99,Comm&Mgmt,No,55.72,Mkt&HR,55.54,Placed,498279.0
+753,60.91,Others,63.94,Central,Science,57.47,Others,No,85.09,Mkt&HR,79.22,Placed,580982.0
+754,71.59,Others,74.38,Central,Commerce,71.23,Sci&Tech,No,92.78,Mkt&HR,83.33,Placed,602270.0
+755,80.75,Others,93.31,Central,Science,83.85,Comm&Mgmt,Yes,65.42,Mkt&Fin,77.51,Placed,718535.0
+756,60.27,Others,71.1,Central,Arts,52.83,Others,No,44.73,Mkt&Fin,58.02,Not Placed,
+757,64.88,Others,90.49,Central,Science,51.22,Sci&Tech,Yes,86.33,Mkt&HR,80.67,Placed,627442.0
+758,91.87,Others,84.68,Others,Science,68.61,Comm&Mgmt,No,91.34,Mkt&HR,59.98,Placed,600606.0
+759,52.19,Central,47.94,Others,Commerce,88.25,Others,Yes,63.99,Mkt&HR,80.38,Placed,729821.0
+760,70.73,Central,66.45,Central,Arts,61.16,Comm&Mgmt,Yes,54.11,Mkt&HR,72.7,Placed,635203.0
+761,82.02,Central,79.92,Central,Commerce,88.37,Comm&Mgmt,Yes,42.55,Mkt&Fin,64.67,Placed,654274.0
+762,56.77,Central,94.34,Central,Commerce,85.51,Sci&Tech,No,74.28,Mkt&HR,53.34,Placed,628282.0
+763,52.13,Central,67.92,Central,Commerce,61.33,Others,No,92.77,Mkt&Fin,83.1,Placed,579588.0
+764,56.22,Central,49.64,Central,Arts,82.68,Comm&Mgmt,No,79.32,Mkt&HR,87.59,Placed,640857.0
+765,91.35,Central,73.1,Central,Science,77.43,Others,No,58.4,Mkt&Fin,76.64,Placed,588124.0
+766,50.42,Others,51.33,Others,Arts,70.47,Comm&Mgmt,No,77.29,Mkt&Fin,88.58,Placed,614095.0
+767,58.47,Central,82.58,Central,Science,66.92,Comm&Mgmt,No,88.26,Mkt&HR,87.36,Placed,595026.0
+768,51.41,Others,70.38,Central,Science,82.62,Comm&Mgmt,No,67.6,Mkt&HR,57.78,Placed,598019.0
+769,54.98,Central,81.17,Central,Science,81.72,Others,No,87.55,Mkt&Fin,79.25,Placed,635751.0
+770,77.91,Others,88.47,Others,Commerce,80.28,Others,No,62.73,Mkt&HR,63.97,Placed,604359.0
+771,60.87,Others,76.45,Central,Science,89.93,Sci&Tech,No,60.21,Mkt&HR,69.5,Placed,612463.0
+772,75.61,Central,75.62,Central,Arts,69.14,Others,No,73.81,Mkt&Fin,56.28,Placed,556178.0
+773,76.56,Central,82.73,Central,Arts,82.28,Others,Yes,66.95,Mkt&HR,88.99,Placed,728120.0
+774,88.22,Others,87.12,Central,Science,84.5,Sci&Tech,No,96.67,Mkt&Fin,79.05,Placed,652045.0
+775,50.21,Others,88.45,Central,Arts,58.46,Sci&Tech,Yes,69.95,Mkt&Fin,60.68,Not Placed,
+776,88.4,Central,46.82,Others,Arts,51.68,Others,Yes,62.34,Mkt&HR,64.86,Placed,587813.0
+777,77.86,Others,72.81,Central,Science,66.19,Others,No,62.91,Mkt&HR,66.9,Placed,551296.0
+778,57.32,Others,55.81,Central,Science,84.27,Comm&Mgmt,No,71.78,Mkt&HR,79.9,Placed,611990.0
+779,84.78,Central,88.02,Others,Commerce,61.56,Comm&Mgmt,No,60.58,Mkt&HR,87.03,Placed,540179.0
+780,88.5,Central,77.42,Central,Commerce,78.0,Others,Yes,81.93,Mkt&HR,62.86,Placed,718009.0
+781,61.44,Central,66.01,Central,Arts,50.29,Sci&Tech,No,62.08,Mkt&Fin,68.9,Placed,493397.0
+782,91.35,Others,54.41,Central,Commerce,64.21,Sci&Tech,No,62.28,Mkt&HR,73.73,Placed,541039.0
+783,70.45,Others,61.95,Others,Science,74.62,Others,No,75.78,Mkt&HR,65.73,Placed,623962.0
+784,77.15,Others,80.19,Others,Arts,55.19,Sci&Tech,No,43.53,Mkt&HR,70.17,Not Placed,
+785,94.31,Others,55.22,Others,Commerce,85.86,Comm&Mgmt,Yes,78.01,Mkt&HR,54.23,Placed,724586.0
+786,66.27,Central,49.68,Others,Arts,56.25,Comm&Mgmt,No,69.29,Mkt&HR,56.71,Placed,510640.0
+787,86.59,Central,89.4,Others,Science,86.39,Comm&Mgmt,No,66.28,Mkt&HR,66.04,Placed,628662.0
+788,64.33,Central,83.21,Others,Commerce,58.66,Sci&Tech,No,81.72,Mkt&Fin,86.6,Placed,573296.0
+789,85.96,Central,54.99,Others,Commerce,89.77,Others,No,83.98,Mkt&Fin,63.97,Placed,667708.0
+790,77.03,Others,59.62,Others,Arts,74.19,Others,No,89.08,Mkt&Fin,59.99,Placed,601913.0
+791,59.74,Others,93.6,Others,Arts,53.37,Sci&Tech,No,61.74,Mkt&Fin,79.71,Placed,523119.0
+792,68.63,Central,80.41,Central,Arts,52.61,Comm&Mgmt,No,58.97,Mkt&Fin,87.97,Not Placed,
+793,64.29,Others,75.53,Central,Arts,53.0,Sci&Tech,Yes,81.43,Mkt&HR,68.36,Placed,669110.0
+794,53.51,Others,60.38,Others,Commerce,73.6,Sci&Tech,Yes,73.74,Mkt&HR,50.34,Placed,714736.0
+795,51.34,Central,59.96,Central,Arts,82.38,Others,No,76.64,Mkt&Fin,77.53,Placed,613578.0
+796,65.59,Others,46.98,Central,Commerce,66.12,Comm&Mgmt,No,72.22,Mkt&HR,66.6,Placed,578318.0
+797,50.86,Others,81.42,Others,Commerce,67.79,Comm&Mgmt,No,84.82,Mkt&Fin,76.95,Placed,593142.0
+798,57.45,Others,47.16,Others,Arts,73.57,Others,No,51.02,Mkt&Fin,61.11,Placed,552547.0
+799,82.63,Others,45.24,Others,Science,71.32,Others,No,72.23,Mkt&HR,50.1,Placed,575043.0
+800,81.86,Central,81.47,Central,Science,77.52,Others,No,49.17,Mkt&Fin,63.78,Placed,563750.0
+801,83.24,Others,92.44,Central,Arts,68.87,Others,No,63.62,Mkt&Fin,78.19,Not Placed,
+802,64.27,Central,82.83,Central,Commerce,78.55,Comm&Mgmt,No,78.51,Mkt&Fin,65.72,Placed,625281.0
+803,90.05,Others,68.58,Central,Science,89.89,Comm&Mgmt,No,68.6,Mkt&HR,58.77,Placed,652912.0
+804,76.72,Central,69.3,Others,Arts,64.01,Sci&Tech,No,62.02,Mkt&HR,68.56,Placed,562655.0
+805,55.67,Central,66.81,Central,Science,50.49,Others,No,91.33,Mkt&HR,80.09,Placed,540073.0
+806,56.47,Others,61.23,Central,Science,55.03,Sci&Tech,No,84.82,Mkt&HR,54.78,Not Placed,
+807,81.19,Central,71.09,Central,Science,72.14,Others,No,70.52,Mkt&Fin,77.67,Placed,598373.0
+808,57.78,Central,66.56,Others,Arts,63.77,Others,No,95.1,Mkt&Fin,76.69,Placed,602845.0
+809,72.83,Others,74.91,Central,Commerce,87.6,Sci&Tech,Yes,64.61,Mkt&HR,64.83,Placed,722023.0
+810,94.63,Central,89.91,Central,Arts,75.1,Others,No,85.71,Mkt&Fin,88.81,Placed,627572.0
+811,50.18,Others,94.75,Others,Arts,70.81,Others,No,49.74,Mkt&Fin,85.79,Placed,551229.0
+812,50.75,Central,48.94,Others,Arts,81.92,Comm&Mgmt,Yes,56.58,Mkt&HR,62.65,Placed,699060.0
+813,94.69,Central,64.23,Central,Science,60.34,Comm&Mgmt,No,59.61,Mkt&HR,51.24,Placed,505361.0
+814,76.31,Others,54.04,Others,Science,82.79,Others,No,46.14,Mkt&Fin,62.33,Placed,540701.0
+815,55.71,Central,62.61,Others,Science,50.12,Comm&Mgmt,No,69.1,Mkt&Fin,58.19,Not Placed,
+816,90.38,Central,59.37,Central,Commerce,74.79,Sci&Tech,No,51.15,Mkt&Fin,71.89,Placed,553020.0
+817,89.62,Others,53.73,Central,Arts,87.39,Sci&Tech,Yes,76.78,Mkt&Fin,86.75,Placed,758189.0
+818,74.13,Others,83.2,Others,Science,81.51,Others,Yes,51.03,Mkt&Fin,84.81,Placed,679233.0
+819,77.98,Central,69.81,Central,Arts,84.15,Comm&Mgmt,No,47.16,Mkt&Fin,62.23,Placed,553564.0
+820,62.29,Others,90.96,Others,Commerce,65.88,Sci&Tech,No,96.21,Mkt&HR,67.14,Placed,625920.0
+821,52.27,Others,46.63,Others,Arts,82.97,Others,No,78.18,Mkt&Fin,51.46,Placed,628679.0
+822,76.76,Others,48.35,Others,Science,72.03,Sci&Tech,No,94.31,Mkt&Fin,71.77,Placed,623149.0
+823,63.26,Central,65.16,Others,Arts,74.74,Sci&Tech,No,68.41,Mkt&HR,52.53,Not Placed,
+824,79.86,Others,49.01,Central,Commerce,52.36,Comm&Mgmt,Yes,41.94,Mkt&Fin,87.54,Placed,555742.0
+825,87.63,Others,58.14,Others,Science,58.06,Sci&Tech,No,73.31,Mkt&Fin,84.68,Placed,551733.0
+826,50.82,Others,94.3,Others,Science,72.04,Comm&Mgmt,Yes,72.38,Mkt&HR,58.57,Placed,669987.0
+827,76.81,Central,55.45,Central,Science,52.35,Others,No,40.87,Mkt&HR,77.97,Placed,457868.0
+828,60.41,Others,54.91,Others,Commerce,79.66,Others,Yes,89.95,Mkt&Fin,72.72,Placed,746770.0
+829,89.32,Others,73.68,Central,Science,83.6,Others,No,75.96,Mkt&Fin,82.05,Placed,633889.0
+830,61.41,Central,69.9,Central,Commerce,86.81,Sci&Tech,No,83.19,Mkt&Fin,69.03,Placed,672775.0
+831,77.48,Others,74.02,Central,Science,54.07,Sci&Tech,No,68.65,Mkt&HR,57.67,Not Placed,
+832,74.91,Others,63.84,Central,Commerce,87.59,Others,Yes,75.87,Mkt&Fin,75.59,Placed,759308.0
+833,67.83,Central,86.34,Others,Science,52.7,Comm&Mgmt,Yes,54.93,Mkt&HR,53.21,Not Placed,
+834,80.49,Others,51.93,Central,Science,68.96,Others,No,96.48,Mkt&HR,73.38,Placed,617837.0
+835,82.66,Central,66.42,Central,Commerce,83.61,Sci&Tech,No,63.24,Mkt&HR,58.51,Placed,584314.0
+836,75.51,Others,79.49,Others,Arts,52.81,Others,Yes,49.41,Mkt&Fin,77.4,Placed,570142.0
+837,84.13,Others,88.41,Others,Arts,50.73,Comm&Mgmt,No,43.24,Mkt&Fin,83.12,Not Placed,
+838,94.25,Others,63.48,Central,Commerce,51.0,Others,No,76.9,Mkt&HR,54.38,Placed,546239.0
+839,68.87,Central,73.39,Central,Commerce,70.45,Sci&Tech,No,97.04,Mkt&HR,66.01,Placed,636043.0
+840,73.16,Others,48.46,Others,Arts,82.46,Comm&Mgmt,Yes,91.96,Mkt&HR,79.34,Placed,767548.0
+841,50.56,Central,53.52,Others,Commerce,55.1,Others,No,80.72,Mkt&HR,56.55,Not Placed,
+842,85.82,Others,48.46,Others,Arts,54.98,Comm&Mgmt,Yes,97.45,Mkt&HR,72.66,Placed,685106.0
+843,73.41,Others,81.39,Others,Science,72.74,Comm&Mgmt,Yes,81.92,Mkt&Fin,76.87,Placed,725748.0
+844,68.36,Central,59.4,Central,Science,59.37,Sci&Tech,No,59.68,Mkt&HR,64.19,Placed,516921.0
+845,54.23,Central,81.19,Others,Commerce,79.21,Others,No,74.87,Mkt&HR,83.28,Placed,632313.0
+846,90.03,Central,48.32,Central,Science,87.99,Sci&Tech,No,44.63,Mkt&HR,70.43,Placed,559419.0
+847,67.78,Others,88.13,Central,Commerce,80.64,Comm&Mgmt,No,52.86,Mkt&Fin,75.08,Placed,596576.0
+848,80.72,Central,86.78,Others,Science,85.09,Others,Yes,64.22,Mkt&HR,55.63,Placed,722966.0
+849,56.72,Central,49.45,Others,Science,70.78,Comm&Mgmt,Yes,51.71,Mkt&HR,50.93,Not Placed,
+850,93.27,Central,46.19,Central,Commerce,83.29,Comm&Mgmt,No,95.3,Mkt&Fin,52.03,Placed,671343.0
+851,58.03,Central,47.81,Central,Science,57.32,Sci&Tech,No,97.74,Mkt&HR,86.16,Placed,614256.0
+852,58.98,Central,87.68,Others,Science,52.73,Comm&Mgmt,No,61.51,Mkt&HR,85.31,Placed,500054.0
+853,88.65,Central,56.74,Central,Arts,76.24,Others,Yes,81.14,Mkt&Fin,82.3,Placed,699245.0
+854,91.07,Central,72.41,Others,Commerce,52.08,Sci&Tech,Yes,63.65,Mkt&Fin,57.98,Not Placed,
+855,59.55,Others,66.31,Central,Arts,85.7,Comm&Mgmt,Yes,48.09,Mkt&Fin,71.02,Placed,658417.0
+856,71.14,Central,84.78,Others,Arts,77.66,Comm&Mgmt,No,59.54,Mkt&HR,81.84,Placed,585043.0
+857,83.01,Others,69.44,Central,Arts,88.09,Sci&Tech,No,53.54,Mkt&HR,76.99,Not Placed,
+858,89.53,Others,70.03,Central,Arts,62.56,Others,No,59.03,Mkt&Fin,54.62,Placed,552201.0
+859,67.06,Others,94.45,Central,Science,69.45,Comm&Mgmt,No,52.47,Mkt&Fin,85.82,Placed,561973.0
+860,73.27,Central,52.51,Others,Arts,79.67,Sci&Tech,Yes,46.52,Mkt&Fin,56.43,Placed,655770.0
+861,83.38,Central,86.54,Others,Arts,59.71,Comm&Mgmt,No,52.61,Mkt&Fin,56.87,Placed,511013.0
+862,82.9,Others,47.59,Others,Science,71.67,Others,Yes,92.53,Mkt&Fin,86.04,Placed,722800.0
+863,85.23,Others,68.88,Others,Commerce,76.38,Others,No,44.94,Mkt&Fin,69.38,Placed,540281.0
+864,75.65,Others,89.32,Central,Science,89.15,Comm&Mgmt,No,58.84,Mkt&Fin,64.92,Placed,631991.0
+865,54.71,Central,78.26,Others,Arts,79.79,Comm&Mgmt,No,70.65,Mkt&Fin,72.15,Placed,595025.0
+866,90.68,Central,79.26,Others,Arts,54.73,Others,Yes,60.56,Mkt&Fin,89.26,Placed,633299.0
+867,88.95,Central,58.17,Others,Science,69.01,Sci&Tech,No,70.02,Mkt&Fin,54.79,Placed,579590.0
+868,85.91,Central,65.93,Others,Commerce,73.55,Sci&Tech,No,42.52,Mkt&HR,80.28,Placed,553728.0
+869,54.49,Others,63.33,Others,Arts,55.86,Comm&Mgmt,Yes,77.62,Mkt&Fin,63.37,Placed,653424.0
+870,59.2,Central,71.07,Others,Commerce,67.28,Comm&Mgmt,Yes,72.68,Mkt&HR,54.68,Placed,688144.0
+871,83.46,Central,68.11,Others,Commerce,61.36,Comm&Mgmt,No,79.5,Mkt&HR,66.88,Placed,567578.0
+872,51.04,Others,61.34,Central,Science,54.75,Sci&Tech,Yes,72.9,Mkt&HR,71.95,Placed,633170.0
+873,94.07,Others,60.27,Others,Arts,70.48,Others,Yes,65.4,Mkt&Fin,58.24,Placed,655114.0
+874,66.97,Central,57.54,Central,Commerce,56.63,Comm&Mgmt,Yes,60.31,Mkt&HR,66.21,Placed,601024.0
+875,82.37,Central,63.25,Others,Science,73.62,Others,Yes,53.13,Mkt&HR,75.43,Placed,629004.0
+876,89.94,Others,52.5,Central,Commerce,56.79,Others,No,69.0,Mkt&HR,73.06,Placed,527542.0
+877,67.76,Others,88.61,Others,Science,78.94,Others,No,41.51,Mkt&HR,78.93,Placed,569226.0
+878,64.36,Others,75.11,Central,Commerce,57.81,Comm&Mgmt,Yes,59.04,Mkt&HR,83.46,Placed,638424.0
+879,77.39,Others,51.69,Others,Science,85.85,Comm&Mgmt,No,79.32,Mkt&HR,66.37,Placed,650700.0
+880,76.14,Others,79.69,Central,Science,51.05,Sci&Tech,Yes,46.31,Mkt&Fin,66.92,Placed,563947.0
+881,68.41,Central,87.38,Central,Commerce,70.88,Comm&Mgmt,Yes,43.65,Mkt&HR,69.87,Placed,625958.0
+882,77.08,Central,56.88,Others,Commerce,62.8,Others,Yes,77.83,Mkt&Fin,72.65,Placed,681895.0
+883,92.09,Others,52.53,Others,Arts,59.0,Comm&Mgmt,No,63.07,Mkt&Fin,54.33,Placed,503240.0
+884,71.04,Central,45.43,Central,Commerce,68.86,Sci&Tech,No,86.51,Mkt&Fin,62.51,Placed,625750.0
+885,58.85,Central,47.36,Central,Commerce,83.68,Sci&Tech,No,94.36,Mkt&Fin,56.88,Placed,683282.0
+886,66.97,Central,83.11,Others,Commerce,86.61,Comm&Mgmt,Yes,95.51,Mkt&Fin,65.43,Placed,799369.0
+887,67.73,Others,94.36,Others,Arts,62.13,Comm&Mgmt,Yes,64.68,Mkt&Fin,88.93,Placed,620467.0
+888,55.9,Central,47.24,Central,Science,56.17,Others,Yes,55.33,Mkt&HR,73.31,Not Placed,
+889,57.33,Central,82.4,Others,Commerce,78.81,Others,No,75.3,Mkt&Fin,67.18,Placed,617704.0
+890,80.81,Central,48.59,Central,Arts,73.28,Comm&Mgmt,Yes,76.44,Mkt&HR,72.64,Placed,700472.0
+891,65.28,Central,74.61,Others,Commerce,58.04,Comm&Mgmt,No,76.1,Mkt&Fin,76.76,Placed,535296.0
+892,92.97,Others,82.8,Central,Science,80.41,Others,No,58.66,Mkt&Fin,67.4,Placed,583144.0
+893,60.96,Central,62.96,Central,Commerce,70.76,Sci&Tech,No,43.7,Mkt&Fin,67.91,Placed,517845.0
+894,54.45,Others,45.55,Central,Arts,76.14,Comm&Mgmt,No,52.18,Mkt&Fin,78.06,Not Placed,
+895,83.91,Central,74.76,Others,Arts,64.37,Comm&Mgmt,Yes,48.96,Mkt&HR,52.43,Not Placed,
+896,89.65,Others,94.56,Others,Arts,67.56,Others,No,47.19,Mkt&HR,71.6,Placed,507968.0
+897,62.52,Others,57.88,Central,Commerce,57.21,Others,Yes,93.72,Mkt&Fin,71.89,Placed,706388.0
+898,59.09,Others,54.47,Others,Commerce,80.26,Comm&Mgmt,No,40.8,Mkt&HR,80.27,Placed,531756.0
+899,58.36,Others,51.2,Others,Arts,56.28,Comm&Mgmt,No,74.91,Mkt&HR,89.31,Placed,563884.0
+900,73.49,Central,72.76,Others,Arts,81.13,Others,Yes,94.95,Mkt&HR,81.83,Placed,781449.0
+901,71.08,Others,74.82,Others,Commerce,81.92,Comm&Mgmt,No,60.88,Mkt&Fin,70.15,Placed,582887.0
+902,61.67,Others,84.61,Central,Arts,79.86,Sci&Tech,Yes,70.57,Mkt&HR,56.78,Placed,715179.0
+903,52.03,Others,82.65,Central,Arts,50.78,Sci&Tech,Yes,80.36,Mkt&Fin,73.53,Not Placed,
+904,71.67,Others,89.63,Others,Science,60.93,Others,No,58.4,Mkt&HR,83.37,Placed,526405.0
+905,93.17,Others,85.29,Central,Science,68.73,Comm&Mgmt,No,67.7,Mkt&HR,87.3,Placed,576439.0
+906,79.36,Others,57.36,Central,Commerce,73.82,Sci&Tech,No,87.39,Mkt&HR,83.01,Placed,602841.0
+907,72.3,Others,72.79,Central,Commerce,86.77,Others,No,83.23,Mkt&HR,57.56,Placed,652571.0
+908,54.98,Others,59.87,Others,Commerce,65.02,Others,No,86.89,Mkt&Fin,78.5,Placed,594502.0
+909,61.36,Central,61.49,Others,Commerce,85.0,Comm&Mgmt,Yes,97.27,Mkt&Fin,85.21,Placed,777863.0
+910,63.26,Central,91.6,Others,Arts,56.54,Sci&Tech,Yes,61.48,Mkt&Fin,77.24,Placed,639791.0
+911,84.42,Central,79.09,Central,Science,64.85,Others,No,83.33,Mkt&HR,77.43,Placed,602444.0
+912,89.45,Central,93.73,Central,Arts,52.09,Sci&Tech,Yes,74.96,Mkt&Fin,70.01,Placed,636334.0
+913,90.57,Central,65.85,Others,Commerce,79.7,Comm&Mgmt,No,78.66,Mkt&Fin,75.48,Placed,616586.0
+914,94.31,Central,71.87,Central,Arts,56.03,Others,Yes,82.91,Mkt&Fin,61.78,Placed,654141.0
+915,94.21,Central,69.36,Others,Commerce,60.28,Comm&Mgmt,Yes,83.48,Mkt&Fin,53.55,Placed,648808.0
+916,92.88,Central,50.36,Central,Arts,81.01,Sci&Tech,No,91.37,Mkt&Fin,83.11,Placed,653325.0
+917,53.23,Others,56.84,Central,Commerce,71.39,Sci&Tech,No,60.26,Mkt&Fin,87.73,Placed,547312.0
+918,56.2,Others,71.38,Central,Commerce,50.56,Comm&Mgmt,No,77.9,Mkt&HR,84.27,Placed,551787.0
+919,63.7,Others,48.37,Others,Commerce,50.09,Others,No,56.26,Mkt&HR,63.36,Not Placed,
+920,74.88,Central,91.57,Others,Arts,70.43,Others,Yes,74.48,Mkt&Fin,53.74,Placed,705892.0
+921,54.36,Central,51.19,Central,Commerce,62.2,Sci&Tech,No,83.57,Mkt&Fin,61.21,Placed,603530.0
+922,88.06,Others,54.9,Others,Science,57.21,Sci&Tech,Yes,85.88,Mkt&HR,83.71,Placed,663394.0
+923,77.75,Central,83.27,Others,Science,74.54,Others,No,64.37,Mkt&HR,76.23,Not Placed,
+924,74.41,Others,49.85,Others,Arts,59.14,Sci&Tech,Yes,69.51,Mkt&Fin,88.67,Placed,646843.0
+925,57.44,Central,90.01,Others,Science,73.69,Sci&Tech,No,59.36,Mkt&Fin,63.71,Placed,561315.0
+926,61.4,Central,81.29,Central,Commerce,65.17,Comm&Mgmt,Yes,49.8,Mkt&HR,72.06,Not Placed,
+927,57.21,Others,48.43,Others,Science,57.47,Comm&Mgmt,No,55.11,Mkt&Fin,81.6,Placed,517986.0
+928,88.34,Central,79.59,Others,Commerce,55.52,Sci&Tech,No,92.9,Mkt&Fin,59.36,Placed,574914.0
+929,76.29,Central,76.58,Central,Arts,59.47,Sci&Tech,No,57.92,Mkt&Fin,88.56,Placed,541342.0
+930,83.08,Others,82.87,Central,Arts,51.19,Sci&Tech,Yes,96.54,Mkt&Fin,73.7,Not Placed,
+931,63.32,Central,86.41,Others,Commerce,62.33,Comm&Mgmt,No,54.01,Mkt&HR,50.32,Not Placed,
+932,66.71,Others,80.92,Others,Arts,86.08,Sci&Tech,Yes,81.94,Mkt&HR,51.01,Placed,748693.0
+933,68.22,Central,74.31,Central,Commerce,83.25,Sci&Tech,Yes,73.29,Mkt&Fin,85.29,Placed,741722.0
+934,84.2,Central,61.12,Central,Science,64.88,Comm&Mgmt,Yes,80.42,Mkt&HR,75.81,Placed,684392.0
+935,84.76,Others,79.86,Others,Science,73.03,Sci&Tech,Yes,77.35,Mkt&HR,80.52,Placed,677242.0
+936,59.31,Central,92.85,Central,Commerce,72.69,Sci&Tech,No,80.99,Mkt&HR,81.36,Placed,596941.0
+937,92.37,Others,74.38,Central,Science,83.15,Comm&Mgmt,Yes,92.52,Mkt&Fin,66.82,Placed,778794.0
+938,55.43,Others,78.22,Others,Commerce,59.45,Sci&Tech,No,72.68,Mkt&Fin,81.94,Placed,537315.0
+939,90.33,Others,66.86,Others,Arts,61.86,Comm&Mgmt,No,43.94,Mkt&HR,87.5,Not Placed,
+940,54.52,Central,82.81,Central,Arts,62.07,Comm&Mgmt,No,55.71,Mkt&Fin,56.89,Not Placed,
+941,61.9,Others,94.88,Central,Arts,51.63,Comm&Mgmt,No,81.08,Mkt&HR,80.57,Placed,553019.0
+942,88.09,Others,53.02,Central,Science,62.59,Comm&Mgmt,No,68.66,Mkt&HR,62.31,Placed,532067.0
+943,58.08,Others,55.12,Central,Science,85.12,Others,Yes,71.82,Mkt&Fin,62.86,Placed,717390.0
+944,68.61,Central,71.97,Others,Science,86.48,Sci&Tech,No,74.6,Mkt&Fin,66.51,Placed,644213.0
+945,70.24,Others,69.07,Central,Arts,54.39,Sci&Tech,Yes,62.19,Mkt&HR,84.55,Placed,632324.0
+946,61.04,Central,73.58,Central,Science,68.32,Sci&Tech,Yes,84.89,Mkt&HR,50.88,Placed,685820.0
+947,81.96,Others,47.45,Central,Science,65.25,Others,Yes,81.97,Mkt&Fin,67.36,Placed,676298.0
+948,88.31,Central,65.21,Others,Science,69.57,Others,No,81.43,Mkt&HR,77.2,Placed,577467.0
+949,89.36,Others,74.15,Others,Science,72.19,Others,No,81.49,Mkt&HR,54.42,Placed,601443.0
+950,65.27,Others,74.26,Others,Science,50.81,Comm&Mgmt,No,91.64,Mkt&HR,81.69,Placed,585653.0
+951,73.89,Central,77.87,Central,Arts,83.69,Comm&Mgmt,Yes,74.53,Mkt&HR,87.68,Placed,715341.0
+952,61.18,Others,81.01,Others,Science,88.95,Comm&Mgmt,No,96.09,Mkt&Fin,53.64,Placed,672025.0
+953,61.02,Others,77.08,Central,Arts,76.14,Sci&Tech,No,46.91,Mkt&HR,56.12,Not Placed,
+954,57.26,Central,84.51,Others,Arts,76.42,Comm&Mgmt,Yes,76.65,Mkt&HR,88.96,Placed,727362.0
+955,92.3,Central,76.24,Others,Science,71.12,Comm&Mgmt,No,81.58,Mkt&HR,57.91,Placed,603872.0
+956,89.96,Others,71.88,Others,Arts,63.37,Sci&Tech,No,67.68,Mkt&HR,53.16,Placed,555929.0
+957,84.98,Central,75.31,Central,Commerce,55.96,Others,No,56.72,Mkt&HR,88.09,Placed,520346.0
+958,73.29,Central,50.06,Others,Arts,73.36,Others,Yes,71.9,Mkt&HR,85.7,Placed,699633.0
+959,72.08,Others,58.66,Others,Commerce,51.8,Sci&Tech,No,61.16,Mkt&HR,76.23,Placed,507662.0
+960,73.84,Central,71.37,Others,Science,82.98,Others,Yes,92.73,Mkt&Fin,72.06,Placed,762445.0
+961,74.15,Others,88.65,Central,Commerce,66.84,Sci&Tech,Yes,60.69,Mkt&Fin,86.77,Placed,648562.0
+962,69.56,Central,78.95,Others,Science,66.59,Others,Yes,50.19,Mkt&Fin,76.22,Placed,609190.0
+963,55.93,Others,49.52,Others,Science,63.09,Others,No,73.43,Mkt&HR,76.34,Placed,556846.0
+964,55.65,Central,74.61,Central,Arts,88.77,Sci&Tech,Yes,62.97,Mkt&Fin,83.75,Placed,734602.0
+965,92.85,Others,56.09,Others,Commerce,57.0,Comm&Mgmt,No,45.56,Mkt&HR,76.13,Placed,464089.0
+966,71.69,Others,81.7,Central,Arts,56.05,Sci&Tech,Yes,72.76,Mkt&Fin,70.15,Placed,655068.0
+967,92.89,Central,86.37,Others,Arts,56.62,Others,No,71.2,Mkt&HR,65.59,Placed,540556.0
+968,57.36,Central,74.67,Others,Science,76.34,Sci&Tech,Yes,50.05,Mkt&Fin,70.13,Not Placed,
+969,74.95,Others,74.57,Central,Science,89.68,Sci&Tech,No,74.66,Mkt&HR,70.9,Placed,624063.0
+970,59.35,Others,61.93,Central,Arts,59.42,Sci&Tech,No,72.91,Mkt&HR,64.43,Not Placed,
+971,61.39,Others,67.31,Others,Commerce,86.22,Sci&Tech,No,84.87,Mkt&HR,67.92,Placed,628435.0
+972,51.35,Central,88.21,Central,Arts,61.14,Sci&Tech,Yes,60.97,Mkt&Fin,82.07,Placed,632512.0
+973,55.35,Others,81.17,Central,Commerce,75.92,Comm&Mgmt,No,54.43,Mkt&HR,66.66,Placed,544739.0
+974,91.26,Others,70.99,Central,Arts,51.62,Comm&Mgmt,No,95.17,Mkt&HR,51.02,Placed,590652.0
+975,64.47,Central,63.41,Others,Commerce,69.83,Comm&Mgmt,No,72.55,Mkt&Fin,61.32,Placed,563705.0
+976,77.37,Central,47.52,Others,Arts,76.18,Sci&Tech,Yes,41.57,Mkt&HR,59.27,Not Placed,
+977,70.93,Central,52.15,Others,Arts,71.45,Sci&Tech,No,87.6,Mkt&HR,81.74,Placed,618253.0
+978,68.02,Others,54.65,Central,Commerce,59.51,Others,Yes,51.41,Mkt&HR,67.97,Placed,583399.0
+979,73.93,Central,63.67,Central,Science,83.14,Sci&Tech,Yes,85.59,Mkt&HR,61.21,Placed,756603.0
+980,58.43,Central,92.21,Others,Science,88.81,Sci&Tech,No,80.9,Mkt&HR,82.43,Placed,672193.0
+981,94.49,Others,70.26,Others,Commerce,68.37,Comm&Mgmt,No,96.19,Mkt&HR,50.77,Placed,608564.0
+982,86.82,Central,56.74,Others,Science,75.44,Sci&Tech,No,96.0,Mkt&Fin,56.97,Placed,666748.0
+983,83.37,Others,50.29,Others,Arts,81.62,Comm&Mgmt,No,55.92,Mkt&HR,83.08,Placed,596618.0
+984,71.09,Others,61.92,Others,Commerce,59.66,Others,Yes,84.45,Mkt&Fin,72.03,Placed,684987.0
+985,56.88,Others,85.79,Central,Arts,84.58,Sci&Tech,No,58.38,Mkt&HR,80.95,Placed,587302.0
+986,91.43,Others,64.17,Central,Arts,61.21,Others,No,76.49,Mkt&Fin,83.53,Placed,542605.0
+987,65.36,Others,83.63,Others,Science,81.03,Comm&Mgmt,Yes,74.67,Mkt&HR,87.68,Placed,713896.0
+988,52.25,Others,85.14,Others,Science,54.48,Comm&Mgmt,No,43.16,Mkt&HR,52.54,Not Placed,
+989,65.41,Others,50.54,Others,Science,61.54,Comm&Mgmt,No,40.3,Mkt&HR,81.97,Placed,494552.0
+990,85.75,Central,75.43,Others,Commerce,71.34,Comm&Mgmt,No,43.35,Mkt&Fin,78.35,Placed,533094.0
+991,78.02,Central,92.95,Central,Science,71.0,Sci&Tech,Yes,47.42,Mkt&Fin,58.28,Placed,646890.0
+992,83.79,Others,65.11,Central,Arts,84.02,Sci&Tech,No,54.94,Mkt&Fin,87.27,Placed,578881.0
+993,85.71,Central,47.55,Others,Commerce,89.85,Others,No,92.6,Mkt&Fin,66.17,Placed,656617.0
+994,59.54,Others,91.17,Others,Arts,54.29,Sci&Tech,No,70.08,Mkt&HR,85.5,Placed,547231.0
+995,91.57,Others,89.18,Central,Arts,60.86,Others,No,86.22,Mkt&Fin,74.2,Placed,585689.0
+996,69.71,Others,71.11,Central,Arts,64.3,Comm&Mgmt,No,88.62,Mkt&Fin,71.07,Placed,598418.0
+997,78.76,Central,72.61,Others,Science,69.16,Others,No,82.63,Mkt&Fin,56.38,Placed,601403.0
+998,50.1,Central,55.59,Others,Science,69.76,Comm&Mgmt,No,62.7,Mkt&Fin,86.57,Placed,577326.0
+999,94.7,Central,85.97,Others,Science,84.25,Comm&Mgmt,No,90.1,Mkt&HR,72.27,Placed,671414.0
+1000,62.64,Others,69.93,Central,Arts,80.82,Comm&Mgmt,No,83.04,Mkt&HR,50.24,Placed,642044.0

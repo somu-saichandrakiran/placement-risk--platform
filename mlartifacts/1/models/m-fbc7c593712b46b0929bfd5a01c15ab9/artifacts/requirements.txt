@@ -1,0 +1,6 @@
+mlflow==3.11.1
+scikit-learn
+xgboost
+numpy
+pandas
+shap
